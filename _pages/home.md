@@ -1,7 +1,7 @@
 ---
-title: "The Krastanov Group - UMass Amherst"
+title: "Krastanov Lab - UMass Amherst"
 layout: homelay
-excerpt: "The Krastanov Group at UMass Amherst."
+excerpt: "The Krastanov Lab at UMass Amherst."
 sitemap: false
 permalink: /
 ---

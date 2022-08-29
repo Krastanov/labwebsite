@@ -1,7 +1,7 @@
 ---
-title: "The Krastanov Group - Openings"
+title: "Openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "News from the Krastanov Lab at UMass Amherst."
 sitemap: false
 permalink: /vacancies
 ---

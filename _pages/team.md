@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "The members of the Krastanov Lab at UMass Amherst."
 sitemap: false
 permalink: /team/
 ---

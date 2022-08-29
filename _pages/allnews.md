@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "The Krastanov Group at UMass Amherst."
+excerpt: "News from the Krastanov Lab at UMass Amherst."
 sitemap: false
 permalink: /allnews.html
 ---
