@@ -8,12 +8,9 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+[We are  looking for new PhD students, Postdocs, and Master students to join the team!]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
+<!--TODO newer css without this modulo 2 nonsense-->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -75,10 +72,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
-
-
+<!--TODO When there are master and bs students
 ## Master and Bachelor Students
+
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -90,7 +86,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -130,8 +126,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+-->
 
-
+<!--TODO When there are alumni
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -164,8 +161,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+-->
 
-## Former visitors, BSc/ MSc students
+<!--TODO when there are former visitors, BS, and MS students
+## Former visitors, BS, and MS students
+
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -190,5 +190,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
+-->
 
-## Administrative Support
+<!-- TODO ## Administrative Support -->

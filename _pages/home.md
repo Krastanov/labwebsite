@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-This group...
+Babbage designed and then Turing formalized the first programmable computing devices, and humanity made the greatest step forward in a civilization’s history: making "thinking" machines. The technologies enabling this step, from the vacuum tube to the semiconductor revolution, changed every sector of society in the 20th century. We now find ourselves at the cusp of the next profound revolution in information science, at the intersection of physics, mathematics, computer science, and engineering, as we begin to build machines that harness the full computational power that the laws of the universe promise us: enabling quantum computing, new forms of secure communication, and quantum-enhanced precision sensing.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
   <!-- Menu -->
@@ -37,14 +37,14 @@ This group...
   </a>
 </div>
 
-(see [Research](research)).
+[More about our research work]({{ site.url }}{{ site.baseurl }}/vacancies).
 
-located at...
+[We are hiring!]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-**Hiring** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+<!--TODO funding acknowledgement
 We are grateful for funding from...
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/placeholder.jpg" style="width: 100px">
 </figure>
+-->
