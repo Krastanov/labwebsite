@@ -17,6 +17,6 @@ We have a number of spots open for independent study projects at the BS and MS l
 
 {{ project.description | markdownify }}
 
-**Recommended skills:** {{ project.recskills | markdownify }}
+**Recommended skills:** {{ project.recskills }}
 {% endfor %}
 {% endfor %}

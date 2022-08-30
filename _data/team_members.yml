@@ -1,18 +1,9 @@
 - name: Stefan Krastanov
   photo: Stefan1.jpg
-  info: Assistant professor, started Sep 2022
-  email: stefan@krastanov.org
-  number_educ: 3
-  education1: Master, Sciences de la matière, [ENS Lyon, France](https://www.ens-lyon.fr)
-  education2: PhD, Physics, [Yale Quantum Institute](https://quantuminstitute.yale.edu/)
-  education3: Postdoc, [MIT/Harvard](https://www.rle.mit.edu/qp)
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://lab.krastanov.org/vacancies">openings</a> for more info
-  email: stefan@krastanov.org
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+  info: Asst. Professor of CS<br>Adj. Professor of Physics
+  time: started Sep 2022
+  email: skrastanov@umass.edu
+  history:
+    - entry: Master, Sciences de la matière, [ENS Lyon, France](https://www.ens-lyon.fr)
+    - entry: PhD, Physics, [Yale Quantum Institute](https://quantuminstitute.yale.edu/)
+    - entry: Postdoc, [MIT/Harvard](https://www.rle.mit.edu/qp)
