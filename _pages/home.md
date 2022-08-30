@@ -6,16 +6,27 @@ sitemap: false
 permalink: /
 ---
 
-Babbage designed and then Turing formalized the first programmable computing devices, and humanity made the greatest step forward in a civilization’s history: making "thinking" machines. The technologies enabling this step, from the vacuum tube to the semiconductor revolution, changed every sector of society in the 20th century. We now find ourselves at the cusp of the next profound revolution in information science, at the intersection of physics, mathematics, computer science, and engineering, as we begin to build machines that harness the full computational power that the laws of the universe promise us: enabling quantum computing, new forms of secure communication, and quantum-enhanced precision sensing.
+**We work among the lower layers of the Quantum Information Science technology stack.**
 
+## Brief History of Computing
+
+Babbage designed and then Turing formalized the first programmable computing devices, and humanity made the greatest step forward in a civilization’s history: making "thinking" machines. The vacuum tubes and the semiconductor chips enabling this step, changed every sector of society in the 20th century. We now find ourselves at the cusp of the next profound revolution in information science, at the intersection of physics, mathematics, and computer science as we begin to build machines that harness the full computational power that the laws of the universe promise us: enabling quantum computing, new forms of secure communication, and quantum-enhanced precision sensing.
+
+## Where We Fit In
+
+We work on the design, control, and optimization of quantum hardware for computation and networking, from its analog physical description up to the compilation of error-corrected logical circuitry running on it.
+
+[More about our research work]({{ site.url }}{{ site.baseurl }}/vacancies).
+
+[We are hiring!]({{ site.url }}{{ site.baseurl }}/vacancies)
+
+<!--TODO
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-  <!-- Menu -->
   <ol class="carousel-indicators">
       <li data-target="#carousel" data-slide-to="0" class="active"></li>
       <li data-target="#carousel" data-slide-to="1"></li>
       <li data-target="#carousel" data-slide-to="2"></li>
   </ol>
-  <!-- Items -->
   <div class="carousel-inner" markdown="0">
       <div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/placeholder" alt="Slide 1" />
@@ -36,10 +47,7 @@ Babbage designed and then Turing formalized the first programmable computing dev
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-[More about our research work]({{ site.url }}{{ site.baseurl }}/vacancies).
-
-[We are hiring!]({{ site.url }}{{ site.baseurl }}/vacancies)
+-->
 
 <!--TODO funding acknowledgement
 We are grateful for funding from...
