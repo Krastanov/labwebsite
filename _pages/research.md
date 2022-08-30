@@ -3,7 +3,7 @@ title: "Research"
 layout: textlay
 excerpt: "Research at the Krastanov Lab at UMass Amherst."
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 Creating practically useful scalable quantum computers is the central challenge of this decade and our work cuts across the many disciplines involved in tackling it: information theory, error correction, optimal control, machine learning, and the many facets of quantum computing, sensing, and networking.

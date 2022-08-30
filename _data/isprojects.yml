@@ -1,0 +1,15 @@
+- date: 01. Sep 2022
+  headline: Moving to Amherst!
+- group_title: Analog Quantum Hardware Simulations
+  group_description: Project related to the detailed wavefunction simulations of quantum hardware.
+  projects:
+  - title: Library of Quantum Noise Processes
+    recskill: Basic quantum mechanics and quantum hardware knowledge.
+    description: TODO
+- group_title: Expander Graphs and LDPC Quantum Error Correction
+  group_description: Projects related to the generation of "Low Density Parity Check" codes for quantum error correction, tangentially related to graph theory and the generation of expander graphs.
+  projects:
+  - title: Generating Expander Graphs and Error Correcting Codes
+    recskill: Knowledge of linear algebra and some basic group theory and graph theory skills.
+    description: "Error correcting codes are a group of techniques that permit encoding information in a protected redundant fashion, thus enabling reconstructing damaged records. Error correcting codes are usually represented as a set of linear equations that are fulfilled by the physical bits: thus limiting the"
+
