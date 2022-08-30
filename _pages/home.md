@@ -16,9 +16,11 @@ Babbage designed and then Turing formalized the first programmable computing dev
 
 We work on the design, control, and optimization of quantum hardware for computation and networking, from its analog physical description up to the compilation of error-corrected logical circuitry running on it.
 
-[More about our research work]({{ site.url }}{{ site.baseurl }}/vacancies).
+<!--TODO[More about our research work.]({{ site.url }}{{ site.baseurl }}/research)-->
 
 [We are hiring!]({{ site.url }}{{ site.baseurl }}/vacancies)
+
+[Independent study projects for undergrads and MS students]({{ site.url }}{{ site.baseurl }}/independentstudy)
 
 <!--TODO
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
