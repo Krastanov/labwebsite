@@ -1,9 +1,18 @@
 - group_title: Analog Quantum Hardware Simulations
   group_description: Project related to the detailed wavefunction simulations of quantum hardware.
   projects:
-  - title: Library of Quantum Noise Processes
-    description: TODO
-    recskills: Basic quantum mechanics and quantum hardware knowledge.
+  - title: Library of Quantum Hardware Realizations
+    description: |
+      The proper description of a piece of quantum computing hardware needs
+      to account for the imperfections of the hardware,
+      namely the noise experienced due to interactions with the environment.
+      Most published works on experimental realizations of quantum registers
+      specify various noise parameters,
+      that one can use to simulate the hardware.
+      This project would entail performing an exhaustive bibliographical study
+      of the literature on experimental realization of quantum computation,
+      and the compilation of a database describing the capabilities of such hardware.
+    recskills: Basic knowledge on the description of quantum hardware.
 - group_title: Expander Graphs and LDPC Quantum Error Correction
   group_description: Projects related to the generation of "Low Density Parity Check" codes for quantum error correction, tangentially related to graph theory and the generation of expander graphs.
   projects:

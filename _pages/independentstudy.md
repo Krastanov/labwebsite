@@ -12,6 +12,9 @@ We have a number of spots open for independent study projects at the BS and MS l
 
 {% for project_group in site.data.isprojects %}
 ## {{ project_group.group_title }}
+
+{{ project_group.description }}
+
 {% for project in project_group.projects %}
 ### {{ project.title }}
 
