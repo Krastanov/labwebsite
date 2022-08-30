@@ -1,9 +1,9 @@
 ---
-title: "Hiring"
+title: "Independent Study"
 layout: textlay
-excerpt: "Openings the Krastanov Lab at UMass Amherst."
+excerpt: "Independent Study projects at the Krastanov Lab at UMass Amherst."
 sitemap: false
-permalink: /independentstudy
+permalink: /independentstudy/
 ---
 
 # Independent Study Projects at UMass Amherst

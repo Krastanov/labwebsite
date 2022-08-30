@@ -3,7 +3,7 @@ title: "Team"
 layout: gridlay
 excerpt: "The members of the Krastanov Lab at UMass Amherst."
 sitemap: false
-permalink: /team
+permalink: /team/
 ---
 
 # Group Members

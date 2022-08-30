@@ -3,7 +3,7 @@ title: "Hiring"
 layout: textlay
 excerpt: "Openings the Krastanov Lab at UMass Amherst."
 sitemap: false
-permalink: /vacancies
+permalink: /vacancies/
 ---
 
 # Graduate Student and Postdoc Openings
