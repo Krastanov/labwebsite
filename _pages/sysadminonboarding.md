@@ -56,11 +56,7 @@ for file in experimentaldata*.txt
 end
 ```
 
-<details>
-<summary>
-Suggestions for Windows terminal users (click to expand)
-</summary>
-
+<details><summary>Suggestions for Windows terminal users (click to expand)</summary>
 There are a few different terminal emulators under Windows (the programs that let you type in text commands). The "shell" that runs inside the terminal and actually interprets and runs these commands is a second program. You can mix and match terminal emulators with shells and the choice of a shell is a separate question - think of it as the difference between a text editor (the terminal) and the programming language (the shell).
 
 - `cmd`: the build-in terminal emulator; never use it, it will bring you only pain; you can not even copy-paste text reliably with it; it is a bad tool by the standards of the 1980s
