@@ -29,3 +29,5 @@ incremental: false
 
 # Markdown Processing
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE", "LIBERAL_HTML_TAG"]
