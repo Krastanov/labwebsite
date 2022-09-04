@@ -15,7 +15,7 @@ If you are uncertain about your own skills, consider looking up the resources we
 {% for project_group in site.data.isprojects %}
 ## {{ project_group.group_title }}
 
-{{ project_group.description }}
+{{ project_group.group_description }}
 
 {% for project in project_group.projects %}
 ### {{ project.title }}
