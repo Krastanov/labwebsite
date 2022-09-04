@@ -1,6 +1,6 @@
 ---
 title: "Independent Study"
-layout: textlay
+layout: toctextlay
 excerpt: "Independent Study projects at the Krastanov Lab at UMass Amherst."
 sitemap: false
 permalink: /independentstudy/
@@ -11,8 +11,6 @@ permalink: /independentstudy/
 We have a number of spots open for independent study projects at the BS and MS level. They are grouped by topic, and you should feel free to suggest projects of your own even if they are not listed on this page.
 
 If you are uncertain about your own skills, consider looking up the resources we have prepared on both the [quantum information](/quantumonboarding) and [programming and software development](/sysadminonboarding). These cover skills you would need to succeed at an independent study project. Developing these skills can very much be a part of these independent studies, not something you have to master in advance.
-
-{% include toc.html h_min=2 h_max=3 %}
 
 {% for project_group in site.data.isprojects %}
 ## {{ project_group.group_title }}
