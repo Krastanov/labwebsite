@@ -12,6 +12,8 @@ We have a number of spots open for independent study projects at the BS and MS l
 
 If you are uncertain about your own skills, consider looking up the resources we have prepared on both the [quantum information](/quantumonboarding) and [programming and software development](/sysadminonboarding). These cover skills you would need to succeed at an independent study project. Developing these skills can very much be a part of these independent studies, not something you have to master in advance.
 
+{% toc %}
+
 {% for project_group in site.data.isprojects %}
 ## {{ project_group.group_title }}
 

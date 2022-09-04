@@ -21,7 +21,6 @@ sass:
   sass_dir: _sass
 
 # Conversion
-markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -31,3 +30,7 @@ incremental: false
 markdown: CommonMarkGhPages
 commonmark:
   options: ["UNSAFE", "LIBERAL_HTML_TAG"]
+
+toc:
+ min_level: 2
+ max_level: 3
