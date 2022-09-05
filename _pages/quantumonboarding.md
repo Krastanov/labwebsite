@@ -8,7 +8,7 @@ permalink: /quantumonboarding/
 
 # Quantum Information Onboarding
 
-This is an assortment of topics in Quantum Information Science. Whether you need *deep* knowledge in some of them depends on the subfield you are heading for. However, over the first year you would need to build at least a *superficial* understanding of most of these topics.
+This is an assortment of topics in Quantum Information Science. Whether you need *deep* knowledge in some of them depends on the subfield you are heading for. However, over the first year as a graduate student you would need to build at least a *superficial* understanding of most of these topics.
 
 Be careful when searching online for some of the suggested textbooks. You probably would stumble upon repositories like [Library Genesis](http://libgen.rs/) that have the entire PDF files, but using them would be an illegal act of piracy.
 
