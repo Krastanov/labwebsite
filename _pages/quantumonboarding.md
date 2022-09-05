@@ -41,7 +41,7 @@ A few models that you will probably encounter:
 
 Common noise models:
 
-- \(T_1\) decay and \(T_2\) dephasing times for two-level systems
+- $T_1$ decay and $T_2$ dephasing times for two-level systems
 - Amplitude damping and dephasing for oscillators
 - Depolarization
 - Pauli noise
