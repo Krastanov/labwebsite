@@ -16,8 +16,9 @@ Be careful when searching online for some of the suggested textbooks. You probab
 
 These are common suggestions for an overview:
 
-- [Preskill's lecture notes](http://theory.caltech.edu/~preskill/ph229/)
 - [Quantum Computation and Quantum Information by Nielsen and Chuang](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview)
+- [Preskill's lecture notes](http://theory.caltech.edu/~preskill/ph229/)
+- [Aaronson's lecture notes](https://www.scottaaronson.com/qclec.pdf) and their [second part](https://www.scottaaronson.com/qisii.pdf)
 
 ## Analog Hardware Dynamics
 
