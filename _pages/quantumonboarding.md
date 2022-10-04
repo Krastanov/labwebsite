@@ -29,7 +29,8 @@ These are the differential equations describing a piece of quantum hardware.
 - [Quantum Measurement Theory and its Application](https://www.cambridge.org/core/books/quantum-measurement-theory-and-its-applications/120E32FFBEBF6EE0F6EC6F84D51DC907) is great for in-depth study of measurement modeling
 - Quantum Optics - there are a few standard books on the topic (and [good alternative suggestions online](https://physics.stackexchange.com/questions/262850/book-recommendation-quantum-optics))
   - [Quantum Optics by Walls and Milburn](https://link.springer.com/book/10.1007/978-3-540-28574-8)
-  - Methods in Theoretical Quantum Optics by Barnett and Radmore
+  - [Quantum Optics by Scully and Zubairy](https://www.cambridge.org/core/books/quantum-optics/08DC53888452CBC6CDC0FD8A1A1A4DD7)
+  - [Methods in Theoretical Quantum Optics by Barnett and Radmore](https://global.oup.com/academic/product/methods-in-theoretical-quantum-optics-9780198563617?cc=us&lang=en&)
 - [Modern Quantum Mechanics by Sakurai and Napolitano](https://en.wikipedia.org/wiki/Modern_Quantum_Mechanics) is a great textbook on Quantum Mechanics from a physics perspective
 
 A few models that you will probably encounter:
