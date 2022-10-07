@@ -2,8 +2,8 @@
 title: "Publications"
 layout: gridlay
 excerpt: "Publications from the Krastanov Lab at UMass Amherst."
-sitemap: false
-permalink: /publications
+sitemap: true
+permalink: /publications/
 ---
 
 # Publications

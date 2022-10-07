@@ -2,7 +2,7 @@
 title: "IT Craftsmanship Skills"
 layout: textlay
 excerpt: "IT Craftsmanship Skills that would make you much more productive."
-sitemap: false
+sitemap: true
 permalink: /sysadminonboarding/
 ---
 

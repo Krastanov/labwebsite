@@ -2,7 +2,7 @@
 title: "Quantum Information Science Skills"
 layout: textlay
 excerpt: "Quantum Information Skills you would need in the lab."
-sitemap: false
+sitemap: true
 permalink: /quantumonboarding/
 ---
 

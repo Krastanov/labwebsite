@@ -2,7 +2,7 @@
 title: "Krastanov Lab - UMass Amherst"
 layout: homelay
 excerpt: "The Krastanov Lab at UMass Amherst."
-sitemap: false
+sitemap: true
 permalink: /
 ---
 

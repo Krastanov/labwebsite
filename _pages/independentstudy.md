@@ -2,7 +2,7 @@
 title: "Independent Study Projects"
 layout: toctextlay
 excerpt: "Independent Study projects at the Krastanov Lab at UMass Amherst."
-sitemap: false
+sitemap: true
 permalink: /independentstudy/
 ---
 
