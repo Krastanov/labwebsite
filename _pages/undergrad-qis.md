@@ -32,7 +32,7 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 </table>
 
 
-<div class="divtable">
+<div class="divtable shorttable">
 
 |||
 |--:|---|
@@ -41,7 +41,7 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 |Time| TBD |
 </div>
 
-<div class="divtable">
+<div class="divtable shorttable">
 
 ||||
 |--:|---|---|
@@ -72,7 +72,7 @@ Could be helpful but are not necessary:
 
 ## Content
 
-<div class="divtable">
+<div class="divtable shorttable">
 
 | Class | Topic | Concepts |
 |---|---|---|
@@ -99,7 +99,7 @@ Could be helpful but are not necessary:
 
 4 homeworks given on TBD, due on TBD
 
-<div class="divtable">
+<div class="divtable shorttable">
 
 |||
 |---|---|

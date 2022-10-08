@@ -16,7 +16,10 @@ figcaption {
 
 div.divtable > table {
     @extend .table;
-	width: auto !important;
+}
+
+div.shorttable > table {
+    width: auto !important;
 }
 
 div.divtable-bordered > table {
