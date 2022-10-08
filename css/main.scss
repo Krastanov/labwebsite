@@ -14,10 +14,11 @@ figcaption {
     margin-bottom: 20px;
 }
 
-
+div.divtable > table {
+    @extend .table;
+}
 
 /* Top navigation bar */
-
 
 p.byline {
 	text-align: center;

@@ -10,11 +10,16 @@ Quantum information science (QIS) revolutionizes our understanding of the fundam
 
 This class will introduce the notion of quantum probability amplitudes, i.e., the "correct" probabilistic description of Nature, and describe how these quantum phenomena permit the creation of new types of computational machines. The introduction to foundational quantum information science will be followed by a few practical (and impractical) quantum algorithms, illustrating the counterintuitive computational powers of quantum mechanics. The latter half of the class would focus on the difficulties of creating such extremely fragile computational machines in our noisy and unforgiving real world.
 
+<div class=".divtable">
+
 |||
 |--:|---|
 | Spring 2023 | |
 |Location | TBD |
 |Time| TBD |
+</div>
+
+<div class=".divtable">
 
 ||||
 |--:|---|---|
@@ -23,6 +28,7 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 ||LGRC AXXX TBD|
 ||Office Hours TBD|
 |TAs|TBD|
+</div>
 
 Website at [lab.krastanov.org/undergrad-qis](https://lab.krastanov.org/undergrad-qis/)
 
@@ -44,6 +50,8 @@ Could be helpful but are not necessary:
 
 ## Content
 
+<div class=".divtable">
+
 | Class | Topic | Concepts |
 |---|---|---|
 |1,2| Classical Probability Theory | Bayesian vs Frequentist, parametrization of ignorance, stochastic matrices, probability in physics, probability in computation
@@ -59,6 +67,7 @@ Could be helpful but are not necessary:
 |17,18,19| Noisy Quantum Memories | Error correction, Linear Binary Codes, Stabilizer Codes, Syndrome measurement, Syndrome decoding, Repetition code, CSS code, Toric code, LDPC code
 |20,21,22| Noisy Quantum Computation | Fault tolerance, Fault tolerant syndrome measurement, Transversal gates, Magic states
 |23,24| Efficient classical simulations | Stabilizer states, Clifford circuits
+</div>
 
 ## Calendar
 
@@ -67,6 +76,8 @@ Could be helpful but are not necessary:
 2 exams during the term on TBD and a final on TBD
 
 4 homeworks given on TBD, due on TBD
+
+<div class=".divtable">
 
 |||
 |---|---|
@@ -85,6 +96,7 @@ Could be helpful but are not necessary:
 |May 1| 2 lectures |
 |May 8| 2 lectures |
 |May 15| 1 lecture, Wed last day of classes|
+</div>
 
 ## Topics not covered
 
