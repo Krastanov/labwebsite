@@ -11,19 +11,25 @@ Quantum information science (QIS) revolutionizes our understanding of the fundam
 This class will introduce the notion of quantum probability amplitudes, i.e., the "correct" probabilistic description of Nature, and describe how these quantum phenomena permit the creation of new types of computational machines. The introduction to foundational quantum information science will be followed by a few practical (and impractical) quantum algorithms, illustrating the counterintuitive computational powers of quantum mechanics. The latter half of the class would focus on the difficulties of creating such extremely fragile computational machines in our noisy and unforgiving real world.
 
 <table class="table">
+<tbody>
 <tr><td>a</td><td>c</td></tr>
 <tr><td>b</td><td>d</td></tr>
-<table>
+</tbody>
+</table>
 
 <table class="table table-bordered">
+<tbody>
 <tr><td>a</td><td>c</td></tr>
 <tr><td>b</td><td>d</td></tr>
-<table>
+</tbody>
+</table>
 
 <table class="table table-condensed">
+<tbody>
 <tr><td>a</td><td>c</td></tr>
 <tr><td>b</td><td>d</td></tr>
-<table>
+</tbody>
+</table>
 
 
 <div class="divtable">
