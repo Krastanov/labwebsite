@@ -18,6 +18,14 @@ div.divtable > table {
     @extend .table;
 }
 
+div.divtable-bordered > table {
+    @extend .table-bordered;
+}
+
+div.divtable-condensed > table {
+    @extend .table-condensed;
+}
+
 /* Top navigation bar */
 
 p.byline {
