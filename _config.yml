@@ -30,3 +30,4 @@ incremental: false
 markdown: CommonMarkGhPages
 commonmark:
   options: ["UNSAFE", "LIBERAL_HTML_TAG"]
+  extensions: ["strikethrough", "autolink", "table"]
