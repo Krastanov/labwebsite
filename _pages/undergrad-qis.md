@@ -6,7 +6,7 @@ sitemap: true
 permalink: /undergrad-qis/
 ---
 
-# 4XX: Quantum Information Science
+# COMPSCI 490: Quantum Information Science
 
 Quantum information science (QIS) revolutionizes our understanding of the fundamental laws of the universe and promises world-altering improvements in a number of practical computational tasks. For theoretical computer scientists, QIS provides the means to unlock the ultimate computational powers available to us in this universe. For programmers and computer engineers, QIS offers the tools to run simulations and optimizations otherwise infeasible on classical computers. For theoretical physicists, QIS gives us hope of resolving paradoxes foundational to our understanding of Nature. And for experimentalists and engineers, QIS also enables the creation of exquisite sensors and novel communication tools, far outperforming what is classically permitted.
 
@@ -91,6 +91,13 @@ Could be helpful but are not necessary:
 |May 15| 1 lecture, Wed last day of classes|
 </div>
 
+## Learning Objectives
+
+1. Understanding of classification of deterministic, probabilistic, and quantum algorithms, in particular the difference between classical probability and quantum probability amplitude;
+2. Familiarity with the "killer apps" for quantum computing and networking hardware, where they have capabilities beyond those of classical computers;
+3. Understanding of the limitations of quantum computers: in what situations are they **not** more powerful than classical computers;
+4. Modeling of noisy quantum hardware and standard error correction techniques permitting the creation of reliable quantum hardware out of noisy unreliable quantum systems.
+
 ## Topics not covered
 
 These are important topics we would not have the time to cover, but you might want to pursue in the future for fuller understanding of the field. Feel free to also discuss them during office hours.
@@ -108,6 +115,21 @@ These are important topics we would not have the time to cover, but you might wa
 - Compilation of quantum circuits
 - Quantum sensors
 - Applications to Fundamental Physics, Cosmology, High Energy Physics, Black holes
+
+## Textbooks
+
+[A large number of diverse resources is provided](/quantumonboarding). Each lecture will be provided with independent bibliographical resources.
+
+## Grading
+
+The course is letter-graded.
+
+- 10% in class short quizzes (graded complete-A / incomplete-F)
+- 40% homeworks (letter graded, counting only the 3 best homeworks, discarding the grade from the worst one)
+- 30% midterms (letter graded)
+- 20% final (letter graded)
+
+Homework late return policy: each day the homework is late, the grade for that particular homework is lowered by a factor of 0.7, compounding. 
 
 ## Academic Honesty Statement
 
