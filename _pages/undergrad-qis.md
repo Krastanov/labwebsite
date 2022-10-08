@@ -6,55 +6,26 @@ sitemap: true
 permalink: /undergrad-qis/
 ---
 
+# 4XX: Quantum Information Science
+
 Quantum information science (QIS) revolutionizes our understanding of the fundamental laws of the universe and promises world-altering improvements in a number of practical computational tasks. For theoretical computer scientists, QIS provides the means to unlock the ultimate computational powers available to us in this universe. For programmers and computer engineers, QIS offers the tools to run simulations and optimizations otherwise infeasible on classical computers. For theoretical physicists, QIS gives us hope of resolving paradoxes foundational to our understanding of Nature. And for experimentalists and engineers, QIS also enables the creation of exquisite sensors and novel communication tools, far outperforming what is classically permitted.
 
 This class will introduce the notion of quantum probability amplitudes, i.e., the "correct" probabilistic description of Nature, and describe how these quantum phenomena permit the creation of new types of computational machines. The introduction to foundational quantum information science will be followed by a few practical (and impractical) quantum algorithms, illustrating the counterintuitive computational powers of quantum mechanics. The latter half of the class would focus on the difficulties of creating such extremely fragile computational machines in our noisy and unforgiving real world.
 
-<table class="table">
-<tbody>
-<tr><td>a</td><td>c</td></tr>
-<tr><td>b</td><td>d</td></tr>
-</tbody>
-</table>
-
-<table class="table table-bordered">
-<tbody>
-<tr><td>a</td><td>c</td></tr>
-<tr><td>b</td><td>d</td></tr>
-</tbody>
-</table>
-
-<table class="table table-condensed">
-<tbody>
-<tr><td>a</td><td>c</td></tr>
-<tr><td>b</td><td>d</td></tr>
-</tbody>
-</table>
-
-
 <div class="divtable shorttable">
 
-|||
-|--:|---|
-| Spring 2023 | |
-|Location | TBD |
-|Time| TBD |
+||||||
+|--:|:--|---|--:|---|
+| Spring 2023 |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Instructor| Prof. Stefan Krastanov|
+| Location    | TBD |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
+| Time        | TBD |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC AXXX TBD|
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours TBD|
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|TAs       | TBD|
 </div>
 
-<div class="divtable shorttable">
+Website at [lab.krastanov.org/undergrad-qis](https://lab.krastanov.org/undergrad-qis/).
 
-||||
-|--:|---|---|
-|Instructor| Stefan Krastanov|
-||[skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
-||LGRC AXXX TBD|
-||Office Hours TBD|
-|TAs|TBD|
-</div>
-
-Website at [lab.krastanov.org/undergrad-qis](https://lab.krastanov.org/undergrad-qis/)
-
-Online course management through moodle at [TBD](#)
+Online course management through moodle at [TBD](#).
 
 ## Prerequisites
 
