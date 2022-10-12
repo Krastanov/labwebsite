@@ -29,15 +29,15 @@ Online course management through moodle at [TBD](#).
 
 ## Prerequisites
 
-- MATH 131 Calculus I
+A grade of C or better in each of:
+
 - MATH 132 Calculus II
 - MATH 235 Introduction to Linear Algebra
-- STAT 240 Introduction to Statistics
+- one of COMPSCI 240 / STAT 240 / STAT 515
 
-Could be helpful but are not necessary:
+These classes could be helpful but are not necessary:
 
 - MATH 233 Multivariate Calculus
-- COMPSCI 240 Reasoning Under Uncertainty
 - COMPSCI 250 Introduction to Computations
 - COMPSCI 311 Introduction to Algorithms
 
@@ -122,7 +122,7 @@ These are important topics we will not have the time to cover, but you might wan
 
 ## Grading
 
-The course is letter-graded.
+A 3 credit class graded as Letter grade or Optional Student Grading.
 
 - 10% in class short quizzes (graded complete-A / incomplete-F)
 - 40% homeworks (letter graded, counting only the 3 best homeworks, discarding the grade from the worst one)
