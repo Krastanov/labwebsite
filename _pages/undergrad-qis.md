@@ -15,11 +15,11 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 <div class="divtable shorttable">
 
 ||||||
-|--:|:--|---|--:|---|
+|--:|:--|---|--:|:--|
 | Spring 2023 |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Instructor| Prof. Stefan Krastanov|
-| Location    | TBD |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
-| Time        | TBD |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC AXXX TBD|
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours TBD|
+| Location    | CS140 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
+| Time        | MW 11:15-12:30 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC AXXX TBD|
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: Mon 1:30-3:00 <br> or by appointment over videoconference|
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|TAs       | TBD|
 </div>
 
@@ -62,21 +62,38 @@ These classes could be helpful but are not necessary:
 |23,24| Efficient classical simulations | Stabilizer states, Clifford circuits
 </div>
 
+## Textbooks
+
+A variety of materials will be provided as the class progresses and each lecture will have suggested readings from multiple sources. You can see a [preview of the most important sources](./quantumonboarding).
+
 ## Calendar
 
 26 class days
 
-2 exams during the term on TBD and a final on TBD
+#### Exams:
 
-4 homeworks given on TBD, due on TBD
+- 1st Midterm, take home exam, 7am-11:59pm, Tue, March 7th
+- 2nd Midterm, take home exam, 7am-11:59pm, Thu, April, 13th
+- Final, in-person written exam, date TBD
+
+#### Homeworks:
+
+Due on Friday of the same week they were given. Given on:
+
+- Feb 27th
+- Mar 20th
+- Apr 3rd
+- May 1st
+
+Extra credit or ungraded homeworks might be considered.
 
 <div class="divtable shorttable">
 
 |||
 |---|---|
 |Feb 6| 2 lectures |
-|Feb 13| 2 lectures |
-|Feb 20| 2 lectures, Presidents' Day Mon Holiday, Wed schedule change|
+|Feb 13| lectures canceled due to conference, to be rescheduled later in the year |
+|Feb 20| 1 lecture, Presidents' Day Mon Holiday, Wed schedule change|
 |Feb 27| 2 lectures |
 |Mar 6| 2 lectures |
 |Mar 13| Spring Recess|
@@ -88,7 +105,7 @@ These classes could be helpful but are not necessary:
 |Apr 24| 2 lectures |
 |May 1| 2 lectures |
 |May 8| 2 lectures |
-|May 15| 1 lecture, Wed last day of classes|
+|May 15| 2 lectures, Wed last day of classes|
 </div>
 
 ## Learning Objectives
