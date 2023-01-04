@@ -9,9 +9,7 @@
     This project builds a number of related simulation techniques and algorithms, in particular
     focused on being able to model aritrary wave-packet profiles.
   results:
-  - result: |
-      [`CavityWaiveguide.jl` prototype](https://github.com/mabuni1998/CavityWaveguide) of
-      a library extending `QuantumOptics.jl`.
+  - result: "[`CavityWaiveguide.jl` prototype](https://github.com/mabuni1998/CavityWaveguide) of a library extending `QuantumOptics.jl`."
 - title: Expander graphs and Cayley complexes for Quantum LDPC codes
   year: 2022
   student: Vaishnavi Addala
@@ -25,8 +23,7 @@
     This project endeavors to generate many such classes of expander graphs and
     LDPC error correcting codes.
   results:
-  - result: |
-      Contributions to the [`QuantumExpanders.jl` library](https://github.com/Krastanov/QuantumExpanders.jl) of expander graph generators and LDPC codes.
+  - result: Contributions to the [`QuantumExpanders.jl` library](https://github.com/Krastanov/QuantumExpanders.jl) of expander graph generators and LDPC codes.
 - title: Optimization of entanglement purification circuits
   year: 2022
   student: Vaishnavi Addala
@@ -40,10 +37,8 @@
     Furthermore, we design purification circuits that shape the correlations of errors in the purified pairs
     such that the performance of the error correcting code used in the teleportation is greatly increased.
   results:
-  - result: |
-      [`Qevo.jl` library](https://github.com/Krastanov/Qevo.jl) implementing the circuit optimizer.
-  - result: |
-      Upcoming ["Faster Bell Simulations and Full-stack Optimization of Entanglement Purification"](#) paper.
+  - result: "[`Qevo.jl` library](https://github.com/Krastanov/Qevo.jl) implementing the circuit optimizer."
+  - result: "Upcoming [\"Faster Bell Simulations and Full-stack Optimization of Entanglement Purification\"](#) paper."
 - title: GPU accelerated simulator for Clifford circuits
   year: 2021
   student: Shu Ge
@@ -57,12 +52,9 @@
     with gate-simulation complexity of $\mathcal{O}(1)$ steps, providing for drastically faster modeling
     compared to $\mathcal{O}(n)$ Clifford simulators or $\mathcal{O}(2^n)$ wavefunction simulators.
   results:
-  - result: |
-      [APS March Meeting 2022 Talk](https://meetings.aps.org/Meeting/MAR22/Session/Y40.4)
-  - result: |
-      [`BPGates.jl` library](https://github.com/Krastanov/BPGates.jl) implementing the faster simulation algorithm.
-  - result: |
-      Upcoming ["Faster Bell Simulations and Full-stack Optimization of Entanglement Purification"](#) paper.
+  - result: "[APS March Meeting 2022 Talk](https://meetings.aps.org/Meeting/MAR22/Session/Y40.4)"
+  - result: "[`BPGates.jl` library](https://github.com/Krastanov/BPGates.jl) implementing the faster simulation algorithm."
+  - result: Upcoming ["Faster Bell Simulations and Full-stack Optimization of Entanglement Purification"](#) paper.
 - title: All-Photonic Artificial Neural Network Processor Via Non-linear Optics
   year: 2020
   student: Jasvith Raj Basani
@@ -70,8 +62,7 @@
   description: |
     Optics and photonics has recently captured interest as a platform to accelerate linear matrix processing, that has been deemed as a bottleneck in traditional digital electronic architectures. In this paper, we propose an all-photonic artificial neural network processor wherein information is encoded in the amplitudes of frequency modes that act as neurons. The weights among connected layers are encoded in the amplitude of controlled frequency modes that act as pumps. Interaction among these modes for information processing is enabled by non-linear optical processes. Both the matrix multiplication and element-wise activation functions are performed through coherent processes, enabling the direct representation of negative and complex numbers without the use of detectors or digital electronics. Via numerical simulations, we show that our design achieves a performance commensurate with present-day state-of-the-art computational networks on image-classification benchmarks. Our architecture is unique in providing a completely unitary, reversible mode of computation. Additionally, the computational speed increases with the power of the pumps to arbitrarily high rates, as long as the circuitry can sustain the higher optical power. 
   results:
-  - result: |
-      The paper ["All-Photonic Artificial Neural Network Processor Via Non-linear Optics"](https://arxiv.org/abs/2205.08608) and related patent.
+  - result: The paper ["All-Photonic Artificial Neural Network Processor Via Non-linear Optics"](https://arxiv.org/abs/2205.08608) and related patent.
 - title: GPU accelerated simulator for Clifford circuits
   year: 2022
   student: Torque Dandachi
@@ -81,12 +72,8 @@
     The main complications is that the elements of the matrices under consideration are usually packed in order to increase performance and lower memory usage, i.e. a vector of 64 elements would be stored as a single 64 bit integer instead of as an array of 64 bools.
     This project consists of implement the aforementioned linear algebra operations in GPU kernels, and then seamlessly integrating them in the rest of the QuantumClifford library.
   results:
-  - result: |
-      In-depth evaluation of different GPU implementation strategies.
-      Full implementation was not finished.
-  - result: |
-      [`QuantumCliffordCUDA.jl` library](https://github.com/Krastanov/QuantumCliffordCUDA.jl)
-      with an initial implementation.
+  - result: In-depth evaluation of different GPU implementation strategies. Full implementation was not finished.
+  - result: "[`QuantumCliffordCUDA.jl` library](https://github.com/Krastanov/QuantumCliffordCUDA.jl) with an initial implementation."
 - title: Optimal Control of Unresolved Defect Centers
   year: 2020
   student: Torque Dandachi
@@ -105,9 +92,5 @@
     by optimal quantum control methods opens the path to scalable quantum networks on intra-chip
     and inter-chip platforms. 
   results:
-  - result: |
-      The entirety of the optimal control code used in
-      ["Multiplexed control of spin quantum memories in a scalable photonic circuit"](#).
-  - result: |
-      [`git` repository](https://github.com/itstorque/QPG-NV-centers)
-      with the control pulse optimizer.
+  - result: The entirety of the optimal control code used in ["Multiplexed control of spin quantum memories in a scalable photonic circuit"](#).
+  - result: "[`git` repository](https://github.com/itstorque/QPG-NV-centers) with the control pulse optimizer."

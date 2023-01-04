@@ -15,6 +15,7 @@ We have a number of spots open for independent study projects at the BS and MS l
 
 {{ project.description | markdownify }}
 
+**Results:**
 {% for res in project.results %}
 - {{ res.result | markdownify }}
 {% endfor %}
