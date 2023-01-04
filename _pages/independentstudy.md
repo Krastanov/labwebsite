@@ -12,6 +12,8 @@ If you are uncertain about your own skills, consider looking up the resources we
 
 If you are interested in any of these projects, contact Prof. Krastanov at [skrastanov@umass.edu](skrastanov@umass.edu).
 
+You can also see a list of [past projects](/pastindependentstudy).
+
 {% for project_group in site.data.isprojects %}
 ## {{ project_group.group_title }}
 
