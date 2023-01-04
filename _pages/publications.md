@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-All papers are available on [arXiv](https://arxiv.org/a/krastanov_s_1.html).
+All papers are available on [arXiv](https://arxiv.org/a/krastanov_s_1.html), [Google Scholar](https://scholar.google.com/citations?user=-Bkhg-gAAAAJ&hl=en), and [ORCiD](https://orcid.org/0000-0001-5550-5258).
 
 <!--TODO newer css without this modulo 2 nonsense-->
 <!--TODO highlights
