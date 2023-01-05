@@ -33,7 +33,7 @@ A grade of C or better in each of:
 
 - MATH 132 Calculus II
 - MATH 235 Introduction to Linear Algebra
-- one of COMPSCI 240 or STAT 515
+- one of COMPSCI 240 or STAT 515 or PHYSICS 281 or PHYSICS 287
 
 These classes could be helpful but are not necessary:
 
