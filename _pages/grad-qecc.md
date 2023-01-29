@@ -56,6 +56,36 @@ We will aim to cover the following topics (numbers in parentheses indicate appro
 - (1) Other qubit codes
 - (1) Bosonic codes
 
+## Calendar
+
+<div class="divtable shorttable">
+
+|||
+|---|---|
+|Feb 8| Introductory lecture on error correction and initial presentation assignments |
+|Feb 15| class canceled due to conference, assigned reading |
+|Feb 22| no class due to Presidents' Day Holiday shuffle |
+|Mar 1| paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] |
+|Mar 7| paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] |
+|Mar 15| Spring Recess|
+|Mar 22| paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] or [Topological codes (toric and surface codes)][topocodes] |
+|Mar 29| selection of class projects and mind mapping goals |
+|Apr 5| paper presentations: [Topological codes (toric and surface codes)][topocodes] |
+|Apr 12| paper presentations: [Topological codes (toric and surface codes)][topocodes] or [Quantum LDPC codes][qLDPC] |
+|Apr 19| paper presentations: [Quantum LDPC codes][qLDPC] |
+|Apr 26| paper presentations: [Fault tolerance and gate compilation][faulttolerance] |
+|May 3| paper presentations: [Fault tolerance and gate compilation][faulttolerance]  |
+|May 10| reports on class project results |
+|May 17| reports on class project results |
+</div>
+
+[basics]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/AUDG9JXP
+[clifford]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/ICIAFVAP
+[review]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/MK7634QQ
+[topocodes]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/E9XVHVLL
+[qLDPC]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV
+[faulttolerance]: #
+
 ## Assessments
 
 The grade would be weighted as:
