@@ -16,17 +16,20 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 
 ||||||
 |--:|:--|---|--:|:--|
-| Spring 2023 |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Instructor| Prof. Stefan Krastanov|
+| Spring 2023 |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
 | Location    | CS140 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
-| Time        | MW 11:15-12:30 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC AXXX TBD|
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [Prof. Office Hours signup](https://cal.krastanov.org/krastanov/undergrad-qis-office-hours) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|TA        | TBD  |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours TBD |
+| Time        | MW 11:15-12:30 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [Prof. Office Hours signup MW](https://cal.krastanov.org/krastanov/undergrad-qis-office-hours) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Amir Reza Ramtin  |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [aramtin@umass.edu](aramtin@umass.edu)  |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours F 10:00-12:00 in TBD |
+
+
 </div>
 
 Website at [lab.krastanov.org/undergrad-qis](https://lab.krastanov.org/undergrad-qis/).
 
-Online course management through moodle at [TBD](#).
+Online course management through [Moodle](https://umass.moonami.com/course/view.php?id=35236).
 
 ## Prerequisites
 
