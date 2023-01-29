@@ -98,3 +98,7 @@ For students engaging in class projects it would be:
 - 70% from class project
 - 20% from oral presentations
 - 10% from participation in discussions
+
+## Remote Participants
+
+Non-local participants from the partner institutions [will join us over video conference through Zoom](https://umass-amherst.zoom.us/j/93949517075?pwd=VnFBeVRuSWs5STBxcVMwMktUTnNWdz09).
