@@ -68,7 +68,7 @@ These classes could be helpful but are not necessary:
 
 ## Textbooks
 
-A variety of materials will be provided as the class progresses and each lecture will have suggested readings from multiple sources. You can see a [preview of the most important sources](./quantumonboarding).
+A variety of materials will be provided as the class progresses and each lecture will have suggested readings from multiple sources. You can see a [preview of the most important sources](/quantumonboarding).
 
 ## Calendar
 

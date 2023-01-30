@@ -47,7 +47,7 @@ Upon completion of this course, it is expected that students will be able to:
 
 ## Required Texts and Materials
 
-A list of [general Quantum Information textbooks is made available](/quantumonboarding/) and a list of [papers for each week will be provided in advance](https://www.zotero.org/groups/4899796/qeccgradclass/library).
+A list of [general Quantum Information textbooks is made available](/quantumonboarding) and a list of [papers for each week will be provided in advance](https://www.zotero.org/groups/4899796/qeccgradclass/library).
 
 ## Topics
 
