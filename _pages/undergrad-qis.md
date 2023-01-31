@@ -22,7 +22,7 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [Prof. Office Hours signup MW](https://cal.krastanov.org/krastanov/undergrad-qis-office-hours) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Amir Reza Ramtin  |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [aramtin@umass.edu](aramtin@umass.edu)  |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours F 10:00-12:00 in TBD |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours F 13:00-15:00 in LGRT-T223 |
 
 
 </div>
@@ -136,10 +136,6 @@ These are important topics we will not have the time to cover, but you might wan
 - Compilation of quantum circuits
 - Quantum sensors
 - Applications to Fundamental Physics, Cosmology, High Energy Physics, Black holes
-
-## Textbooks
-
-[A large number of diverse resources is provided](/quantumonboarding). Each lecture will be provided with independent bibliographical resources.
 
 ## Grading
 
