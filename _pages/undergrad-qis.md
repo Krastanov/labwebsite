@@ -22,7 +22,7 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [Prof. Office Hours signup MW](https://cal.krastanov.org/krastanov/undergrad-qis-office-hours) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Amir Reza Ramtin  |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [aramtin@umass.edu](aramtin@umass.edu)  |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours F 13:00-15:00 in LGRT-T223 |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours F 13:00-15:00 in LGRT T223 |
 
 
 </div>
