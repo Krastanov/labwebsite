@@ -148,9 +148,26 @@ A 3 credit undergrad class graded as Letter grade or Optional Student Grading. L
 
 Homework late return policy: each day the homework is late, the grade for that particular homework is lowered by a factor of 0.7, compounding. 
 
+## Use of Tools (solvers, textbooks, AI, etc) during exams and for homework
+
+As long as you disclose the use, you can use any **personal** tool you can think of to help with take-home exams and homework. That includes:
+
+- textbooks
+- search engines
+- numerical or symbolic software
+- AI language models and chat tools (e.g. ChatGPT)
+
+However **you have to disclose** that you used such a tool. In particular, if you find a creative use of such a tool, you might be asked to demonstrate to the class the new technique you have discovered.
+
+**Beware**, AI language models like ChatGPT might very often produce absolute garbage nonsense while presenting it with a veneer of authority and certainty.
+
+**For the final exam** you are permitted only non-electronic tools. You can bring a hundred kilograms of books if you want, but you would probably obtain better results if you prepare your own summary notes.
+
+**You are not permitted to copy the work of another sentient being for any exam or homework.**
+
 ## Academic Honesty Statement
 
-Copying of written homeworks, or exams or "teamwork" on an assignment (unless teaming is explicitly part of that assignment) is not permitted. You can talk to other students about the assignments, and ask/answer questions - it is great to learn from each other - but the work you hand in must be your own. A student found copying the work of others will receive a grade of F for the course (this is the college policy). If you are having trouble with an assignment or if you are having trouble meeting a deadline, see the instructor or the TA; we will bend over backwards to help you but we will not tolerate cheating. Please read the [UMass Academic Code of Conduct Policy](https://www.umass.edu/dean_students/codeofconduct).
+Copying of written homeworks, or exams or "teamwork" on an assignment (unless teaming is explicitly part of that assignment) is not permitted. You can talk to other students about the assignments, and ask/answer questions - it is great to learn from each other - but the work you hand in must be your own. A student found copying the work of others will receive a grade of F for the course. If you are having trouble with an assignment or if you are having trouble meeting a deadline, see the instructor or the TA; we will bend over backwards to help you but we will not tolerate cheating. Please read the [UMass Academic Code of Conduct Policy](https://www.umass.edu/dean_students/codeofconduct).
 
 ## Accommodation Statement
 
