@@ -35,6 +35,8 @@ Students will be expected to fully participate in classroom discussions. Class t
 - QnA with students, led by the presenting student and moderated by instructors
 - Each presenting student would be expected to discuss their presentation a week in advance with the instructors, in order to polish their presentation and get help on topics of interest. **It is the student's responsibility to [sign up for office hours](https://cal.krastanov.org/krastanov/grad-seminar-qis-office-hours)!!!**
 
+Each paper presentation will be 20min followed by 10-15min of QnA. The presenter's goal should be to teach the audience about the concepts presented in the paper, why are they valuable, how they might be applied, etc. The 10-15min QnA would be managed by the instructors, who will also try to help with the thornier questions.
+
 This course will be executed together with similar concurrent gatherings at partner universities at the NSF Center for Quantum Networks.
 
 ## Learning Outcomes
@@ -69,16 +71,16 @@ We will aim to cover the following topics (numbers in parentheses indicate appro
 |Feb 8| Introductory lecture on error correction and initial presentation assignments |
 |Feb 15| class canceled due to conference, assigned reading |
 |Feb 22| makeup class for Feb 15 (the official schedule is no class due to Presidents' Day Holiday shuffle) |
-|Mar 1| paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] |
-|Mar 7| paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] |
+|Mar 1| 2 paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] |
+|Mar 7| 3 paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] |
 |Mar 15| Spring Recess |
-|Mar 22| paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] or [Topological codes (toric and surface codes)][topocodes] |
-|Mar 29| selection of class projects and mind mapping goals |
-|Apr 5| paper presentations: [Topological codes (toric and surface codes)][topocodes] |
-|Apr 12| paper presentations: [Topological codes (toric and surface codes)][topocodes] or [Quantum LDPC codes][qLDPC] |
-|Apr 19| paper presentations: [Quantum LDPC codes][qLDPC] |
-|Apr 26| paper presentations: [Fault tolerance and gate compilation][faulttolerance] |
-|May 3| paper presentations: [Fault tolerance and gate compilation][faulttolerance]  |
+|Mar 22| 3 paper presentations: [Clifford formalism][clifford] or [Basics][basics] or [Review][review] or [Topological codes (toric and surface codes)][topocodes] |
+|Mar 29| introduction to more advanced topics, selection of class projects, and mind mapping goals |
+|Apr 5| 3 paper presentations: [Topological codes (toric and surface codes)][topocodes] |
+|Apr 12| 3 paper presentations: [Topological codes (toric and surface codes)][topocodes] or [Quantum LDPC codes][qLDPC] |
+|Apr 19| 3 paper presentations: [Quantum LDPC codes][qLDPC] |
+|Apr 26| 3 paper presentations: [Fault tolerance and gate compilation][faulttolerance] |
+|May 3| 3 paper presentations: [Fault tolerance and gate compilation][faulttolerance]  |
 |May 10| reports on class project results |
 |May 17| reports on class project results |
 
@@ -89,7 +91,7 @@ We will aim to cover the following topics (numbers in parentheses indicate appro
 [review]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/MK7634QQ
 [topocodes]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/E9XVHVLL
 [qLDPC]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV
-[faulttolerance]: #
+[faulttolerance]: https://www.zotero.org/groups/4899796/qeccgradclass/collections/IEQZ7WM5
 
 ## Assessments
 
