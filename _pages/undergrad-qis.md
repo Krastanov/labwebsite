@@ -45,6 +45,13 @@ These classes could be helpful but are not necessary:
 - COMPSCI 250 Introduction to Computations
 - COMPSCI 311 Introduction to Algorithms
 
+## Learning Objectives
+
+1. Understanding of classification of deterministic, probabilistic, and quantum algorithms, in particular the difference between classical probability and quantum probability amplitude;
+2. Familiarity with the "killer apps" for quantum computing and networking hardware, where they have capabilities beyond those of classical computers;
+3. Understanding of the limitations of quantum computers: in what situations are they **not** more powerful than classical computers;
+4. Modeling of noisy quantum hardware and standard error correction techniques permitting the creation of reliable quantum hardware out of noisy unreliable quantum systems.
+
 ## Content
 
 <div class="divtable shorttable">
@@ -111,13 +118,6 @@ Extra credit or ungraded homeworks might be considered.
 |May 8| 2 lectures |
 |May 15| 2 lectures, Wed last day of classes|
 </div>
-
-## Learning Objectives
-
-1. Understanding of classification of deterministic, probabilistic, and quantum algorithms, in particular the difference between classical probability and quantum probability amplitude;
-2. Familiarity with the "killer apps" for quantum computing and networking hardware, where they have capabilities beyond those of classical computers;
-3. Understanding of the limitations of quantum computers: in what situations are they **not** more powerful than classical computers;
-4. Modeling of noisy quantum hardware and standard error correction techniques permitting the creation of reliable quantum hardware out of noisy unreliable quantum systems.
 
 ## Topics not covered
 
