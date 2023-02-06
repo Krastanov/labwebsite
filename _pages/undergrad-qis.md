@@ -141,7 +141,7 @@ These are important topics we will not have the time to cover, but you might wan
 
 A 3 credit undergrad class graded as Letter grade or Optional Student Grading. Letter grades are A, A-, B+, B, B-, C+, C, C-, D+, D, F.
 
-- 10% in class short quizzes (graded complete-A / incomplete-F)
+- 10% before-class short quizzes (graded complete-A / incomplete-F)
 - 40% homeworks (letter graded, counting only the 3 best homeworks, discarding the grade from the worst one)
 - 30% midterms (letter graded)
 - 20% final (letter graded)
