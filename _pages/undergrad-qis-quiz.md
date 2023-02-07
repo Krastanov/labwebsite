@@ -48,7 +48,7 @@ Are stochastic matrices invertible? What are the implications of your answer (so
 
 ### State Vectors
 
-Consider two bits for which we know with complete certainty that they are in state `00`. What is the state vector representing them (in the sense of classical probability)?
+Consider two bits for which we know with complete certainty that they are in state `00`. What is the state vector representing them (in the sense of a vector that represents a classical probability distribution over possible states)?
 
 ### Stochastic Matrix Compilation
 
@@ -83,13 +83,13 @@ end
 Write down the pseudo code corresponding to the following stochastic matrix:
 
 $$ \left.\left(\begin{array}{cc|cc|cc}
-0 & 1 & 0 & \cdots \\
-1 & 0 & 0 & \cdots & \\
+0 & 1 & 0 & 0 & \cdots \\
+1 & 0 & 0 & 0 & \cdots \\
 \hline
 0 & 0 & 0 & 1 & 0 & \cdots \\
-\vdots & \vdots & 1 & 0 & 0 & \cdots \\
+0 & 0 & 1 & 0 & 0 & \cdots \\
 \hline
-  &   & 0 & 0 & \ddots & \\
+\vdots & \vdots & 0 & 0 & \ddots & \\
   &   & \vdots & \vdots &  & \ddots \\
 \end{array}\right)\right\}2^n\text{ rows} $$
 
