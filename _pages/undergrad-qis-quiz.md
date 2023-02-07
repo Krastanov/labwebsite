@@ -14,15 +14,15 @@ A quick short quiz that goes over linear algebra skills we will need in this cla
 
 Find the eigenvalues and eigenvectors of these 3 matrices
 
-$$\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$$
-$$\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}$$
-$$\begin{pmatrix} 0 & -i \\ i & 0 \end{pmatrix}$$
+$$\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \end{pmatrix}$$
+$$\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \end{pmatrix}$$
+$$\begin{pmatrix} 0 & -i \\\\ i & 0 \end{pmatrix}$$
 
 ### Determinants
 
 Compute the determinant of 
 
-$$\begin{pmatrix} 1 & 1 & 0 \\ 1 & 0 & -2i \\ 0 & 2i & 2 \end{pmatrix}$$
+$$\begin{pmatrix} 1 & 1 & 0 \\\\ 1 & 0 & -2i \\\\ 0 & 2i & 2 \end{pmatrix}$$
 
 What is the implication of a determinant being equal to zero?
 
@@ -30,7 +30,7 @@ What is the implication of a determinant being equal to zero?
 
 Compute the inverse of
 
-$$\begin{pmatrix} 0 & 2i \\ -2i & 0 \end{pmatrix}$$
+$$\begin{pmatrix} 0 & 2i \\\\ -2i & 0 \end{pmatrix}$$
 
 ### Taylor series
 
@@ -38,7 +38,7 @@ Compute the Taylor expansion of $x\mapsto\exp(x)$.
 
 ### Matrix exponent
 
-This is optional. By substituting in the expression for the Taylor series, compute the matrix exponential $\exp\left(\alpha\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\right)$.
+This is optional. By substituting in the expression for the Taylor series, compute the matrix exponential <span>$\exp\left(\alpha\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\right)$</span>.
 
 ## Classical Probability
 
@@ -82,19 +82,6 @@ end
 
 Write down the pseudo code corresponding to the following stochastic matrix:
 
-{{< math >}}
-$$ \left.\left(\begin{array}{cc|cc|cc}
-0 & 1 & 0 & 0 & \cdots \\
-1 & 0 & 0 & 0 & \cdots \\
-\hline
-0 & 0 & 0 & 1 & 0 & \cdots \\
-0 & 0 & 1 & 0 & 0 & \cdots \\
-\hline
-\vdots & \vdots & 0 & 0 & \ddots & \\
-  &   & \vdots & \vdots &  & \ddots \\
-\end{array}\right)\right\}2^n\text{ rows} $$
-{{< /math >}}
-
 <div>
 $$ \left.\left(\begin{array}{cc|cc|cc}
 0 & 1 & 0 & 0 & \cdots \\
@@ -107,29 +94,6 @@ $$ \left.\left(\begin{array}{cc|cc|cc}
   &   & \vdots & \vdots &  & \ddots \\
 \end{array}\right)\right\}2^n\text{ rows} $$
 </div>
-
-$$ \left.\left(\begin{array}{cc|cc|cc}
-0 & 1 & 0 & 0 & \cdots \\
-1 & 0 & 0 & 0 & \cdots \\
-\hline
-0 & 0 & 0 & 1 & 0 & \cdots \\
-0 & 0 & 1 & 0 & 0 & \cdots \\
-\hline
-\vdots & \vdots & 0 & 0 & \ddots & \\
-  &   & \vdots & \vdots &  & \ddots \\
-\end{array}\right)\right\}2^n\text{ rows} $$
-
-$$ \left.\left(\begin{array}{cc|cc|cc}
-0 & 1 & 0 & 0 & \cdots \\\\
-1 & 0 & 0 & 0 & \cdots \\\\
-\hline
-0 & 0 & 0 & 1 & 0 & \cdots \\\\
-0 & 0 & 1 & 0 & 0 & \cdots \\\\
-\hline
-\vdots & \vdots & 0 & 0 & \ddots & \\\\
-  &   & \vdots & \vdots &  & \ddots \\\\
-\end{array}\right)\right\\}2^n\text{ rows} $$
-
 
 i.e. a block-diagonal matrix where each block on the diagonal is the $ \begin{pmatrix} 0&1 \\ 1&0\end{pmatrix}$ permutation matrix and everything else is zero.
 
