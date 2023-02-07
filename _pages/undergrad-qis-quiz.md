@@ -1,10 +1,12 @@
 ---
-title: "Undergraduate Quantum Information Science"
+title: "Practice Problems on Undergraduate Quantum Information Science"
 layout: toctextlay
-excerpt: "Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering"
+excerpt: "Practice problems for the Undergrad QIS class. These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge."
 sitemap: true
 permalink: /undergrad-qis-quiz/
 ---
+
+Practice problems for the [Undergrad QIS class](/undergrad-qis). These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge.
 
 ## Do I have the prerequisites?
 
@@ -44,13 +46,13 @@ Compute the Taylor expansion of $x\mapsto\exp(x)$.
 
 ### Matrix exponent
 
-This is optional. By substituting in the expression for the Taylor series, compute the matrix exponential $\exp\left(\alpha\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \end{pmatrix}\right)$.
+This is not too important for the class, but it could be useful and it is an interesting technique. By substituting in the expression for the Taylor series, compute the matrix exponential $\exp\left(\alpha\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \end{pmatrix}\right)$.
 
 ## Classical Probability
 
 ### Reversible Processes
 
-Are stochastic matrices invertible? What are the implications of your answer (something about entropy and chaos, maybe)?
+Are stochastic matrices invertible? What are the implications of your answer (something about entropy or chaos or undoing, maybe)?
 
 ### State Vectors
 
