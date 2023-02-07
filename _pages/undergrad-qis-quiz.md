@@ -40,15 +40,11 @@ $$\begin{pmatrix} 0 & 2i \\ -2i & 0 \end{pmatrix}$$
 
 ### Taylor series
 
-Compute the Taylor expansion of
-
-<div>$x\mapsto\exp(x)$</div>
+Compute the Taylor expansion of $x\mapsto\exp(x)$.
 
 ### Matrix exponent
 
-This is optional. By substituting in the expression for the Taylor series, compute the matrix exponential
-
-<div>$\exp\left(\alpha\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\right)$</div>
+This is optional. By substituting in the expression for the Taylor series, compute the matrix exponential $\exp\left(\alpha\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \end{pmatrix}\right)$.
 
 ## Classical Probability
 
@@ -105,5 +101,5 @@ $$ \left.\left(\begin{array}{cc|cc|cc}
 \end{array}\right)\right\}2^n\text{ rows} $$
 </div>
 
-i.e. a block-diagonal matrix where each block on the diagonal is the \(\begin{pmatrix} 0&1 \\\\ 1&0\end{pmatrix}\) permutation matrix and everything else is zero.
+i.e. a block-diagonal matrix where each block on the diagonal is the \\(\begin{pmatrix} 0&1 \\\\ 1&0\end{pmatrix}\\) permutation matrix and everything else is zero.
 
