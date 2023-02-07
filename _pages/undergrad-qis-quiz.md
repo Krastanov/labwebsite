@@ -95,5 +95,41 @@ $$ \left.\left(\begin{array}{cc|cc|cc}
 \end{array}\right)\right\}2^n\text{ rows} $$
 {{< /math >}}
 
+<div>
+$$ \left.\left(\begin{array}{cc|cc|cc}
+0 & 1 & 0 & 0 & \cdots \\
+1 & 0 & 0 & 0 & \cdots \\
+\hline
+0 & 0 & 0 & 1 & 0 & \cdots \\
+0 & 0 & 1 & 0 & 0 & \cdots \\
+\hline
+\vdots & \vdots & 0 & 0 & \ddots & \\
+  &   & \vdots & \vdots &  & \ddots \\
+\end{array}\right)\right\}2^n\text{ rows} $$
+</div>
+
+$$ \left.\left(\begin{array}{cc|cc|cc}
+0 & 1 & 0 & 0 & \cdots \\
+1 & 0 & 0 & 0 & \cdots \\
+\hline
+0 & 0 & 0 & 1 & 0 & \cdots \\
+0 & 0 & 1 & 0 & 0 & \cdots \\
+\hline
+\vdots & \vdots & 0 & 0 & \ddots & \\
+  &   & \vdots & \vdots &  & \ddots \\
+\end{array}\right)\right\}2^n\text{ rows} $$
+
+$$ \left.\left(\begin{array}{cc|cc|cc}
+0 & 1 & 0 & 0 & \cdots \\\\
+1 & 0 & 0 & 0 & \cdots \\\\
+\hline
+0 & 0 & 0 & 1 & 0 & \cdots \\\\
+0 & 0 & 1 & 0 & 0 & \cdots \\\\
+\hline
+\vdots & \vdots & 0 & 0 & \ddots & \\\\
+  &   & \vdots & \vdots &  & \ddots \\\\
+\end{array}\right)\right\\}2^n\text{ rows} $$
+
+
 i.e. a block-diagonal matrix where each block on the diagonal is the $ \begin{pmatrix} 0&1 \\ 1&0\end{pmatrix}$ permutation matrix and everything else is zero.
 
