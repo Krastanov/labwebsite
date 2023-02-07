@@ -82,6 +82,7 @@ end
 
 Write down the pseudo code corresponding to the following stochastic matrix:
 
+{{< math >}}
 $$ \left.\left(\begin{array}{cc|cc|cc}
 0 & 1 & 0 & 0 & \cdots \\
 1 & 0 & 0 & 0 & \cdots \\
@@ -92,6 +93,7 @@ $$ \left.\left(\begin{array}{cc|cc|cc}
 \vdots & \vdots & 0 & 0 & \ddots & \\
   &   & \vdots & \vdots &  & \ddots \\
 \end{array}\right)\right\}2^n\text{ rows} $$
+{{< /math >}}
 
 i.e. a block-diagonal matrix where each block on the diagonal is the $ \begin{pmatrix} 0&1 \\ 1&0\end{pmatrix}$ permutation matrix and everything else is zero.
 
