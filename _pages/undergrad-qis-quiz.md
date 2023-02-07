@@ -14,15 +14,19 @@ A quick short quiz that goes over linear algebra skills we will need in this cla
 
 Find the eigenvalues and eigenvectors of these 3 matrices
 
-$$\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \end{pmatrix}$$
-$$\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \end{pmatrix}$$
-$$\begin{pmatrix} 0 & -i \\\\ i & 0 \end{pmatrix}$$
+<div>
+$$\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$$
+$$\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}$$
+$$\begin{pmatrix} 0 & -i \\ i & 0 \end{pmatrix}$$
+</div>
 
 ### Determinants
 
 Compute the determinant of 
 
-$$\begin{pmatrix} 1 & 1 & 0 \\\\ 1 & 0 & -2i \\\\ 0 & 2i & 2 \end{pmatrix}$$
+<div>
+$$\begin{pmatrix} 1 & 1 & 0 \\ 1 & 0 & -2i \\ 0 & 2i & 2 \end{pmatrix}$$
+</div>
 
 What is the implication of a determinant being equal to zero?
 
@@ -30,15 +34,21 @@ What is the implication of a determinant being equal to zero?
 
 Compute the inverse of
 
-$$\begin{pmatrix} 0 & 2i \\\\ -2i & 0 \end{pmatrix}$$
+<div>
+$$\begin{pmatrix} 0 & 2i \\ -2i & 0 \end{pmatrix}$$
+</div>
 
 ### Taylor series
 
-Compute the Taylor expansion of $x\mapsto\exp(x)$.
+Compute the Taylor expansion of
+
+<div>$x\mapsto\exp(x)$</div>
 
 ### Matrix exponent
 
-This is optional. By substituting in the expression for the Taylor series, compute the matrix exponential <span>$\exp\left(\alpha\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\right)$</span>.
+This is optional. By substituting in the expression for the Taylor series, compute the matrix exponential
+
+<div>$\exp\left(\alpha\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}\right)$ and $\exp\left(\beta\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}\right)$</div>
 
 ## Classical Probability
 
@@ -95,5 +105,5 @@ $$ \left.\left(\begin{array}{cc|cc|cc}
 \end{array}\right)\right\}2^n\text{ rows} $$
 </div>
 
-i.e. a block-diagonal matrix where each block on the diagonal is the $ \begin{pmatrix} 0&1 \\ 1&0\end{pmatrix}$ permutation matrix and everything else is zero.
+i.e. a block-diagonal matrix where each block on the diagonal is the $\begin{pmatrix} 0&1 \\ 1&0\end{pmatrix}$ permutation matrix and everything else is zero.
 
