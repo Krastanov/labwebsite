@@ -17,7 +17,7 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 ||||||
 |--:|:--|---|--:|:--|
 | Spring 2023 |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
-| Location    | LGRC A215 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
+| Location    | LGRC A104 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
 | Time        | MW 11:15-12:30 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [Prof. Office Hours signup MW](https://cal.krastanov.org/krastanov/undergrad-qis-office-hours) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Amir Reza Ramtin  |
@@ -87,6 +87,10 @@ A variety of materials will be provided as the class progresses and each lecture
 - 2nd Midterm, take home exam, 7am-11:59pm, Thu, April, 13th
 - Final, in-person written exam, date TBD
 
+Take home exams are completely open book and open internet, but no communication with other sentient beings is permitted (e.g., yes to using search engines, no to asking new questions on forums, no to working with classmates).
+
+The final exam is open book, but you can bring only non-electronic resources (e.g., books and notes, but for best results rely on your own notes).
+
 #### Homeworks:
 
 Due on Friday of the same week they were given. Given on:
@@ -97,6 +101,8 @@ Due on Friday of the same week they were given. Given on:
 - May 1st
 
 Extra credit or ungraded homeworks might be considered.
+
+Collaboration is encouraged for the homeworks (and should be disclosed), but the final solutions have to be your own and copying of others' work is forbidden.
 
 <div class="divtable shorttable">
 
