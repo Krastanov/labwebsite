@@ -77,6 +77,10 @@ These classes could be helpful but are not necessary:
 
 A variety of materials will be provided as the class progresses and each lecture will have suggested readings from multiple sources. You can see a [preview of the most important sources](/quantumonboarding).
 
+## Exercises
+
+There are [optional ungraded exercises](/undergrad-qis-quiz) you can use to practice. Office hours would be a good place to discuss them.
+
 ## Calendar
 
 26 class days
