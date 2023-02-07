@@ -105,5 +105,5 @@ $$ \left.\left(\begin{array}{cc|cc|cc}
 \end{array}\right)\right\}2^n\text{ rows} $$
 </div>
 
-i.e. a block-diagonal matrix where each block on the diagonal is the \begin{pmatrix} 0&1 \\\\ 1&0\end{pmatrix} permutation matrix and everything else is zero.
+i.e. a block-diagonal matrix where each block on the diagonal is the \(\begin{pmatrix} 0&1 \\\\ 1&0\end{pmatrix}\) permutation matrix and everything else is zero.
 
