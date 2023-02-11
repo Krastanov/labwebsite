@@ -18,11 +18,11 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 |--:|:--|---|--:|:--|
 | Spring 2023 |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
 | Location    | LGRC A104 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
-| Time        | MW 11:15-12:30 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [Prof. Office Hours signup MW](https://cal.krastanov.org/krastanov/undergrad-qis-office-hours) |
+| Time        | MW 11:15-12:30 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Flint Lab 103 |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [Prof. Office Hours signup Mon before/after class](https://cal.com/krastanov/undergrad-qis-office-hours) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Amir Reza Ramtin  |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [aramtin@umass.edu](aramtin@umass.edu)  |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours F 13:00-15:00 in LGRT T223 |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours Fri 13:00-15:00 in LGRT T223 |
 
 
 </div>

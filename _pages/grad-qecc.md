@@ -19,7 +19,7 @@ permalink: /grad-qecc/
 
 Website at [lab.krastanov.org/grad-qecc](https://lab.krastanov.org/grad-qecc/).
 
-[Signup page for office hours](https://cal.krastanov.org/krastanov/grad-seminar-qis-office-hours).
+[Signup page for office hours](https://cal.com/krastanov/graduate-office-hours-on-zoom).
 
 ---
 
