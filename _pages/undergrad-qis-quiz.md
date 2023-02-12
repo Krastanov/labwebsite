@@ -111,36 +111,36 @@ i.e. a block-diagonal matrix where each block on the diagonal is the \\(\begin{p
 
 Which of these matrices could represent a classical probabilistic process (and among them, which represent a classical process without any randomness)? Which matrices could represent a quantum process? Why and what do they mean?
 
-- $\begin{pmatrix} 1 & 1 \\ 0 & 0 \end{pmatrix}$
-- $\begin{pmatrix} 1 & 0.4 \\ 0 & 0.6 \end{pmatrix}$
-- $\begin{pmatrix} 1 & -1 \\ 0 & 0 \end{pmatrix}$
-- $\begin{pmatrix} 1 & 0 \\ 0 & i \end{pmatrix}$
-- $\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$
-- $\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}$
-- $\begin{pmatrix} 0 & 1 \\ i & 0 \end{pmatrix}$
-- $\begin{pmatrix} \sin(\theta) & \cos(\theta) \\ -\cos(\theta) & \sin(\theta) \end{pmatrix}$
-- $\begin{pmatrix} \sin(\theta) & \cos(\theta) \\ \cos(\theta) & \sin(\theta) \end{pmatrix}$
-- $\begin{pmatrix} \sin(\theta)^2 & \cos(\theta)^2 \\ \cos(\theta)^2 & \sin(\theta)^2 \end{pmatrix}$
+- $\begin{pmatrix} 1 & 1 \\\\ 0 & 0 \end{pmatrix}$
+- $\begin{pmatrix} 1 & 0.4 \\\\ 0 & 0.6 \end{pmatrix}$
+- $\begin{pmatrix} 1 & -1 \\\\ 0 & 0 \end{pmatrix}$
+- $\begin{pmatrix} 1 & 0 \\\\ 0 & i \end{pmatrix}$
+- $\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \end{pmatrix}$
+- $\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \end{pmatrix}$
+- $\begin{pmatrix} 0 & 1 \\\\ i & 0 \end{pmatrix}$
+- $\begin{pmatrix} \sin(\theta) & \cos(\theta) \\\\ -\cos(\theta) & \sin(\theta) \end{pmatrix}$
+- $\begin{pmatrix} \sin(\theta) & \cos(\theta) \\\\ \cos(\theta) & \sin(\theta) \end{pmatrix}$
+- $\begin{pmatrix} \sin(\theta)^2 & \cos(\theta)^2 \\\\ \cos(\theta)^2 & \sin(\theta)^2 \end{pmatrix}$
 
 
 ### Global Phase
 
 Which of these quantum states correspond to distinguishable quantum probability distributions (i.e., you can perform observations that let you distinguish one state from the other)?
 
-- States of the form $\begin{pmatrix} 1 \\ 0 \end{pmatrix}$
-- States of the form $\frac{1}{\sqrt2}\begin{pmatrix} 1 \\ i \end{pmatrix}$
-- States of the form $\frac{1}{\sqrt2}\begin{pmatrix} -1 \\ i \end{pmatrix}$
-- States of the form $\begin{pmatrix} -1 \\ 0 \end{pmatrix}$
-- States of the form $\frac{1}{\sqrt2}\begin{pmatrix} i \\ -1 \end{pmatrix}$
+- States of the form $\begin{pmatrix} 1 \\\\ 0 \end{pmatrix}$
+- States of the form $\frac{1}{\sqrt2}\begin{pmatrix} 1 \\\\ i \end{pmatrix}$
+- States of the form $\frac{1}{\sqrt2}\begin{pmatrix} -1 \\\\ i \end{pmatrix}$
+- States of the form $\begin{pmatrix} -1 \\\\ 0 \end{pmatrix}$
+- States of the form $\frac{1}{\sqrt2}\begin{pmatrix} i \\\\ -1 \end{pmatrix}$
 
 
 ### Classical Probabilities out of Quantum Amplitudes
 
 We represent the following quantum states in a basis $|e_1\rangle$, $|e_2\rangle$, where $e_1$ and $e_2$ are two possible observable states. I.e. the first component of the vector is the amplitude for $e_1$, etc.
 
-- $\frac{1}{\sqrt2}\begin{pmatrix} -1 \\ i \end{pmatrix}$
-- $\begin{pmatrix} \sin(\theta) \\ e^{i\phi}\cos(\theta) \end{pmatrix}$
-- $\frac{1}{\sqrt2}\begin{pmatrix} e^{i\phi} \\ i \end{pmatrix}$
-- $\frac{1}{\sqrt2}\begin{pmatrix} -1 \\ ie^{i\phi} \end{pmatrix}$
+- $\frac{1}{\sqrt2}\begin{pmatrix} -1 \\\\ i \end{pmatrix}$
+- $\begin{pmatrix} \sin(\theta) \\\\ e^{i\phi}\cos(\theta) \end{pmatrix}$
+- $\frac{1}{\sqrt2}\begin{pmatrix} e^{i\phi} \\\\ i \end{pmatrix}$
+- $\frac{1}{\sqrt2}\begin{pmatrix} -1 \\\\ ie^{i\phi} \end{pmatrix}$
 
 What is the probability to observe $e_1$ or $e_2$ for each of them?
