@@ -167,3 +167,7 @@ Consider a 3-level system (i.e. we need 3 vectors to define a complete basis). T
 
 - What can $|u_3\rangle$ be? (Remember that measurable states need to be perfectly distinguishable, i.e. orthogonal).
 - How do we implement the measurement in BU if our device can natively perform on BE measurements? I.e. what gate do we need to add in front of the BU measurement in order for the gate + BE measurement to act as a BU measurement? Give that gate as a unitary matrix.
+
+### Consecutive measurements
+
+You are given the state $|+\rangle=\frac{1}{\sqrt2}\begin{pmatrix} 1 \\\\ 1 \end{pmatrix}$. You perform a sequence of 3 measurements: Z followed by a Z, followed by a third Z. What are the possible 3-bit results you get and what is the probability with which you can obtain each. Answer the same question if the sequence of measurements is XXX and then also if it is XZZ.
