@@ -163,11 +163,11 @@ For the same given quantum states as above, what are the possible results and th
 
 ### A complete basis
 
-Consider a 3-level system (i.e. we need 3 vectors to define a complete basis). The most natural and simple basis is of course $|e_1\rangle=\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \end{pmatrix}$, $|e_2\rangle=\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \end{pmatrix}$, $|e_3\rangle=\begin{pmatrix} 0 \\\\ 0 \\\\ 1 \end{pmatrix}$. We will call that basis BE. Instead of the BE basis, we will perform the measurements in the basis BU: $|u_1\rangle=\frac{1}{\sqrt2}\begin{pmatrix} 1 \\\\ 0 \\\\ 1 \end{pmatrix}$, $|u_2\rangle\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \end{pmatrix}$, and $|u_3\rangle$.
+Consider a 3-level system (i.e. we need 3 vectors to define a complete basis). The most natural and simple basis is of course $|e_1\rangle=\begin{pmatrix} 1 \\\\ 0 \\\\ 0 \end{pmatrix}$, $|e_2\rangle=\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \end{pmatrix}$, $|e_3\rangle=\begin{pmatrix} 0 \\\\ 0 \\\\ 1 \end{pmatrix}$. We will call that basis BE. Instead of the BE basis, we will perform the measurements in the basis BU: $|u_1\rangle=\frac{1}{\sqrt2}\begin{pmatrix} 1 \\\\ 0 \\\\ 1 \end{pmatrix}$, $|u_2=\rangle\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \end{pmatrix}$, and $|u_3\rangle$.
 
 - What can $|u_3\rangle$ be? (Remember that measurable states need to be perfectly distinguishable, i.e. orthogonal).
-- How do we implement the measurement in BU if our device can natively perform on BE measurements? I.e. what gate do we need to add in front of the BU measurement in order for the gate + BE measurement to act as a BU measurement? Give that gate as a unitary matrix.
+- How do we implement the measurement in BU if our device can natively perform only BE measurements? I.e. what gate do we need to add in front of the BE measurement in order for the gate + BE measurement to act as a BU measurement? Give that gate as a unitary matrix.
 
 ### Consecutive measurements
 
-You are given the state $|+\rangle=\frac{1}{\sqrt2}\begin{pmatrix} 1 \\\\ 1 \end{pmatrix}$. You perform a sequence of 3 measurements: Z followed by a Z, followed by a third Z. What are the possible 3-bit results you get and what is the probability with which you can obtain each. Answer the same question if the sequence of measurements is XXX and then also if it is XZZ.
+You are given the state $|+\rangle=\frac{1}{\sqrt2}\begin{pmatrix} 1 \\\\ 1 \end{pmatrix}$. You perform a sequence of 3 measurements: Z followed by a Z, followed by a third Z. What are the possible 3-bit results you get (you get one bit from each measurement) and what is the probability with which you can obtain each? Answer the same question if the sequence of measurements is XXX and then also if it is XZZ.
