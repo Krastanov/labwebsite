@@ -89,8 +89,8 @@ We will aim to cover the following topics (numbers in parentheses indicate appro
 |Apr 12| [Sparse eECC from the very early era](https://www.zotero.org/groups/4899796/qeccgradclass/collections/ICIAFVAP/items/RK9MXYAQ/collection) and a [mid-era overview of progress in qLDPC decoding](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/NMFF6XQC/collection) | [rec 8](https://umass-amherst.zoom.us/rec/share/K33B95wVri2HRKtZmkS0XkmPWM6to0NpRf6v1RT8V-SvmmNAjQdw1gYrXKe-5MM.cD0U5u7yAAFo9ioL?startTime=1681317361000)
 |Apr 19| [Early non-terrible qLDPC codes](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/C9CYJ835/collection) and [new theoretically-great qLDPC codes](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/T99V54K9/collection) | [rec 9](https://umass-amherst.zoom.us/rec/share/m-BdsqY3x4G-mm9kQupZK2_hfP0UiFwiEWNX8kBBpo5OWun6Z_JlIT6gZ5CLLeFP.sOkC8ZA3xZx6WD0V?startTime=1681922291000)
 |Apr 26| [Digression to discuss expander graphs and their use in codes](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/85B4XVCI/collection) | [rec 10](https://umass-amherst.zoom.us/rec/share/zvBOUsE-D_t7K2NGVGZBqvhv1dhjC0mssTJ1rqEnKi7QZFm3aCE_fd94Sd5ERHQD.6wHDq3lCuZ5gN6w6?startTime=1682527096000)
-|May 3| Good decoders |
-|May 10| ... |
+|May 3| Good decoders ([small-set flip iterative decoders](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/JNJJJQRI/collection)) | [rec 11](https://umass-amherst.zoom.us/rec/share/xTFB_vZDig8QLkWBzDY0lRSrWQp3oNLXxOsmPmyU9fjCDFrCGiGyad8GxoBKN-mK.9yKm0v1cQ9vKr1c2?startTime=1683131792000)
+|May 10| Good decoders |
 |May 17| Project Presentations |
 
 </div>
