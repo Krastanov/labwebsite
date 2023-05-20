@@ -90,8 +90,8 @@ We will aim to cover the following topics (numbers in parentheses indicate appro
 |Apr 19| [Early non-terrible qLDPC codes](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/C9CYJ835/collection) and [new theoretically-great qLDPC codes](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/T99V54K9/collection) | [rec 9](https://umass-amherst.zoom.us/rec/share/m-BdsqY3x4G-mm9kQupZK2_hfP0UiFwiEWNX8kBBpo5OWun6Z_JlIT6gZ5CLLeFP.sOkC8ZA3xZx6WD0V?startTime=1681922291000)
 |Apr 26| [Digression to discuss expander graphs and their use in codes](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/85B4XVCI/collection) | [rec 10](https://umass-amherst.zoom.us/rec/share/zvBOUsE-D_t7K2NGVGZBqvhv1dhjC0mssTJ1rqEnKi7QZFm3aCE_fd94Sd5ERHQD.6wHDq3lCuZ5gN6w6?startTime=1682527096000)
 |May 3| Good decoders ([small-set flip iterative decoders](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/JNJJJQRI/collection)) | [rec 11](https://umass-amherst.zoom.us/rec/share/xTFB_vZDig8QLkWBzDY0lRSrWQp3oNLXxOsmPmyU9fjCDFrCGiGyad8GxoBKN-mK.9yKm0v1cQ9vKr1c2?startTime=1683131792000)
-|May 10| Good decoders |
-|May 17| Project Presentations |
+|May 10| Good decoders ([ordereded statistics decoders](https://www.zotero.org/groups/4899796/qeccgradclass/collections/QAGZ4DTV/items/MB2ZARAB/collection)) | [rec 12](https://umass-amherst.zoom.us/rec/share/KcwK9cuWpvI9PwAXFKSfTohFvkflYtQYSxs_ermXPX6PmKIJRtKYLE5r7KEL_eqz.zxuV9AYLeqnFut_i?startTime=1683736989000)
+|May 17| Project Presentations | [rec 13.a](https://umass-amherst.zoom.us/rec/share/1PMt8VqikU0A-5twJX2ucX2rK-GowmflPn9t3mC85TIDxwKQzykU0CZnsqGU-8iJ.YrDeSww-lFp7Ncko?startTime=1684341646000) and [rec 13.b](https://umass-amherst.zoom.us/rec/share/1PMt8VqikU0A-5twJX2ucX2rK-GowmflPn9t3mC85TIDxwKQzykU0CZnsqGU-8iJ.YrDeSww-lFp7Ncko?startTime=1684346207000)
 
 </div>
 
