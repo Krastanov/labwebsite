@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Krastanov Lab  ]]>
+    </title>
+    <link> https://lab.krastanov.org/ </link>
+    <description>
+      <![CDATA[  Website of Prof. Krastanov&#39;s research group.  ]]>
+    </description>
+    <atom:link
+      href="https://lab.krastanov.org/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Quantum Information Science Skills  ]]>
+  </title>
+  <link> https://lab.krastanov.org/quantumonboarding/index.html </link>
+  <guid> https://lab.krastanov.org/quantumonboarding/index.html </guid>
+  <description>
+    <![CDATA[  Quantum Information Skills you would need in the lab.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  IT Craftsmanship Skills  ]]>
+  </title>
+  <link> https://lab.krastanov.org/sysadminonboarding/index.html </link>
+  <guid> https://lab.krastanov.org/sysadminonboarding/index.html </guid>
+  <description>
+    <![CDATA[  IT Craftsmanship Skills that would make you much more productive.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>

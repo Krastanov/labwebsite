@@ -1,0 +1,18 @@
+- title: "publication 1"
+  image: placeholder.png
+  description: Description
+  authors: author1, author2
+  link:
+    url: https://arxiv.org
+    display: arxiv
+  highlight: 1
+  news1: highlight
+  news2: highlight2
+
+- title: "publication 2 - not highlighted"
+  image: placeholder.png
+  description: Description
+  authors: author1, author2
+  link:
+    url: https://arxiv.org
+    display: arxiv

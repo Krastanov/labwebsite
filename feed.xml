@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Krastanov Lab  ]]>
+    </title>
+    <link> https://lab.krastanov.org/ </link>
+    <description>
+      <![CDATA[  Website of Prof. Krastanov&#39;s research group.  ]]>
+    </description>
+    <atom:link
+      href="https://lab.krastanov.org/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Graduate Quantum Information Science  ]]>
+  </title>
+  <link> https://lab.krastanov.org/grad-qis/index.html </link>
+  <guid> https://lab.krastanov.org/grad-qis/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Hiring  ]]>
+  </title>
+  <link> https://lab.krastanov.org/vacancies/index.html </link>
+  <guid> https://lab.krastanov.org/vacancies/index.html </guid>
+  <description>
+    <![CDATA[  Openings the Krastanov Lab at UMass Amherst.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Quantum Information Science Skills  ]]>
+  </title>
+  <link> https://lab.krastanov.org/quantumonboarding/index.html </link>
+  <guid> https://lab.krastanov.org/quantumonboarding/index.html </guid>
+  <description>
+    <![CDATA[  Quantum Information Skills you would need in the lab.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Practice Problems on Undergraduate Quantum Information Science  ]]>
+  </title>
+  <link> https://lab.krastanov.org/undergrad-qis-quiz/index.html </link>
+  <guid> https://lab.krastanov.org/undergrad-qis-quiz/index.html </guid>
+  <description>
+    <![CDATA[  Practice problems for the Undergrad QIS class. These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Independent Study Projects  ]]>
+  </title>
+  <link> https://lab.krastanov.org/independentstudy/index.html </link>
+  <guid> https://lab.krastanov.org/independentstudy/index.html </guid>
+  <description>
+    <![CDATA[  Independent Study projects at the Krastanov Lab at UMass Amherst.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Past Independent Study Projects  ]]>
+  </title>
+  <link> https://lab.krastanov.org/pastindependentstudy/index.html </link>
+  <guid> https://lab.krastanov.org/pastindependentstudy/index.html </guid>
+  <description>
+    <![CDATA[  Successful past independent Study projects at the Krastanov Lab at UMass Amherst.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Graduate Seminar on Quantum Error Correcting Codes  ]]>
+  </title>
+  <link> https://lab.krastanov.org/grad-qecc/index.html </link>
+  <guid> https://lab.krastanov.org/grad-qecc/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the development of Quantum Error Correction and Fault Tolerance, including topological codes, quantum LDPC codes, and their decoders.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Krastanov Lab - UMass Amherst  ]]>
+  </title>
+  <link> https://lab.krastanov.org/home/index.html </link>
+  <guid> https://lab.krastanov.org/home/index.html </guid>
+  <description>
+    <![CDATA[  The Krastanov Lab at UMass Amherst.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Teaching  ]]>
+  </title>
+  <link> https://lab.krastanov.org/teaching/index.html </link>
+  <guid> https://lab.krastanov.org/teaching/index.html </guid>
+  <description>
+    <![CDATA[  Teaching by members of the Krastanov Lab at UMass Amherst.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  About the website  ]]>
+  </title>
+  <link> https://lab.krastanov.org/aboutwebsite/index.html </link>
+  <guid> https://lab.krastanov.org/aboutwebsite/index.html </guid>
+  <description>
+    <![CDATA[  About the website.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  IT Craftsmanship Skills  ]]>
+  </title>
+  <link> https://lab.krastanov.org/sysadminonboarding/index.html </link>
+  <guid> https://lab.krastanov.org/sysadminonboarding/index.html </guid>
+  <description>
+    <![CDATA[  IT Craftsmanship Skills that would make you much more productive.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Undergraduate Quantum Information Science  ]]>
+  </title>
+  <link> https://lab.krastanov.org/undergrad-qis/index.html </link>
+  <guid> https://lab.krastanov.org/undergrad-qis/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Publications  ]]>
+  </title>
+  <link> https://lab.krastanov.org/publications/index.html </link>
+  <guid> https://lab.krastanov.org/publications/index.html </guid>
+  <description>
+    <![CDATA[  Publications from the Krastanov Lab at UMass Amherst.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
