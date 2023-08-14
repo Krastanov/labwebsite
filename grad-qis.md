@@ -81,8 +81,7 @@ There are [optional ungraded exercises](/undergrad-qis-quiz) you can use to prac
 
 #### Exams:
 
-- 1st Midterm, take home exam, 7am-11:59pm, Date TBD
-- 2nd Midterm, take home exam, 7am-11:59pm, Date TBD
+- Midterm, take home exam, 7am-11:59pm, Date TBD
 - Final, in-person written exam, date TBD
 
 Take home exams are completely open book and open internet, but no communication with other sentient beings is permitted (e.g., yes to using search engines, no to asking new questions on forums, no to working with classmates).
@@ -131,9 +130,9 @@ These are important topics we will not have the time to cover, but you might wan
 
 ## Grading
 
-- 50% homeworks (letter graded, discarding the grade from the worst one)
+- 40% homeworks (letter graded, discarding the grade from the worst one)
 - 30% midterms (letter graded)
-- 20% final (letter graded)
+- 30% final (letter graded)
 
 Homework late return policy: each day the homework is late, the grade for that particular homework is lowered by a factor of 0.7, compounding. 
 
