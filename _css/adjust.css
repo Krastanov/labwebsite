@@ -78,7 +78,7 @@ div.publication .well{
   line-height: 1.1;
 }
 
-div.publication h3, p {
+div.publication > h3, div.publication p {
   margin: 0.1em 0 0.1em 0;  
 }
 
@@ -91,6 +91,6 @@ div.publication details[open] > summary > small {
   display: none;
 }
 
-div.publication details[open] p, summary {
+div.publication details[open] > *{
   display: inline;
 }
