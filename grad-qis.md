@@ -21,11 +21,11 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 ||||||
 |--:|:--|---|--:|:--|
 | Fall  |  2023   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
-| Location    | TBA |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
-| Time        | TBA |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours TBA |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | TBA  |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TBA@umass.edu  |
+| Location    | CS 142 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
+| Time        | MW 11:30-12:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours - after lectures and on demand |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Mohammad Mobayenjarihani |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [mobayen@cs.umass.edu](mailto:mobayen@cs.umass.edu) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours TBA |
 
 @@
