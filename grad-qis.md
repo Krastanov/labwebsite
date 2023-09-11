@@ -23,17 +23,17 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 | Fall  |  2023   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
 | Location    | CS 142 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
 | Time        | MW 11:30-12:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours - after lectures and on demand |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours: after lectures and on demand |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Mohammad Mobayenjarihani |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [mobayen@cs.umass.edu](mailto:mobayen@cs.umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours: LGRC T222, 8am-9am Mondays |
 
 @@
 @@
 
 Website at [lab.krastanov.org/grad-qis](https://lab.krastanov.org/grad-qis/).
 
-Online course management through TBA.
+Online course management through [Canvas](https://umamherst.instructure.com/courses/6546).
 
 ## Prerequisites
 
@@ -52,7 +52,7 @@ Strong background in probability theory and linear algebra.
 |---|---|---|
 |1| Classical Probability Theory | Bayesian vs Frequentist, parametrization of ignorance, stochastic matrices, probability in physics, probability in computation
 |2| Quantum Probability Amplitudes | Classical vs quantum correlation, Unitary matrices, Particles or waves, Observer effect, Delayed choice experiment, Bomb defusing
-|3| Measurement | Projectors, partial measurements
+|3| Measurement | Projectors, partial measurements, non-commuting measurements, subsystems
 |4,5| Entanglement | Classical vs quantum correlation, Bell's game and Bell's inequality |
 |6| Quantum Key Distribution | Indistinguishability of eavesdropper and noise |
 |7| Teleportation | State teleportation, gate teleportation, ultradense coding |
