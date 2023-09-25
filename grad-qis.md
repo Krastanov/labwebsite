@@ -81,7 +81,7 @@ There are [optional ungraded exercises](/undergrad-qis-quiz) you can use to prac
 
 #### Exams:
 
-- Midterm, take home exam, 7am-11:59pm, Date TBD
+- Midterm, take home exam, 7am-11:59pm, Date Oct 25th
 - Final, in-person written exam, date TBD
 
 Take home exams are completely open book and open internet, but no communication with other sentient beings is permitted (e.g., yes to using search engines, no to asking new questions on forums, no to working with classmates).
