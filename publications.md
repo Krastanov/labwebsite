@@ -14,7 +14,7 @@ All papers are available on [arXiv](https://arxiv.org/a/krastanov_s_1.html), [Go
 
 ---
 
-{{arxiv_bibliography}}
+{{arxiv_bibliography_krastanov}}
 
 <!--TODO fix math rendering-->
 

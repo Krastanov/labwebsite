@@ -8,11 +8,10 @@ using Mustache
 # arxiv bibliography
 ###
 
-#const arxiv_export_url = "http://export.arxiv.org/api/query?search_query=au:krastanov&max_results=200"
-const arxiv_export_url = "http://arxiv.org/a/krastanov_s_1.atom"
+const arxiv_export_url = mt"http://arxiv.org/a/{{:arxiv_id}}.atom"
 
-function get_arxiv_bibliography()
-    xml = Downloads.download(arxiv_export_url, IOBuffer()) |> take! |> String
+function get_arxiv_bibliography(arxiv_id)
+    xml = Downloads.download(render(arxiv_export_url, (;arxiv_id)), IOBuffer()) |> take! |> String
     LightXML.parse_string(xml)
 end
 
@@ -23,20 +22,24 @@ fixup(str) = replace(str, "\n" => " ")
 #getdate(e) = parse(DateTime, firstcon(e["published"]), dateformat"yyyy-mm-dd\THH:MM:SS\Z")
 getdate(e) = parse(DateTime, firstcon(e["published"])[1:end-6], dateformat"yyyy-mm-dd\THH:MM:SS")
 
-function hfun_arxiv_bibliography()
-    ab = get_arxiv_bibliography()
-    feed = LightXML.root(ab)
+function arxiv_bibliography(arxiv_ids)
+    entries = []
     #io = stdout
     io = IOBuffer()
-    entries = feed["entry"]
+    for arxiv_id in arxiv_ids
+        ab = get_arxiv_bibliography(arxiv_id)
+        feed = LightXML.root(ab)
+        append!(entries, feed["entry"])
+        sleep(1)
+    end
     entries = sort(entries, by = e -> getdate(e), rev=true)
     for e in entries
         authors = [firstcon(a["name"]) for a in e["author"]]
-        "Stefan Krastanov" ∈ authors || continue
+        #"Stefan Krastanov" ∈ authors || continue
         date = Dates.format(getdate(e), ISODateFormat)
         _journalref = firstcon(e["journal_ref"])
         journalref = if isnothing(_journalref)
-            "preprint $(date)"
+            "<!--preprint--> $(date)"
         else
             doi = doilink(e)
             """<a href="$(doi)">$(_journalref)</a>"""
@@ -62,6 +65,14 @@ function hfun_arxiv_bibliography()
         print(io, block, "\n")
     end
     String(take!(io))
+end
+
+function hfun_arxiv_bibliography_krastanov()
+    arxiv_bibliography(["krastanov_s_1"])
+end
+
+function hfun_arxiv_bibliography_amherst()
+    arxiv_bibliography(["towsley_d_1", "krastanov_s_1", "rozpedek_f_1", "niffenegger_r_1", "vasseur_r_1"])
 end
 
 ##
