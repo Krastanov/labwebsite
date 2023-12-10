@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Undergraduate Quantum Information Science  ]]>
+  </title>
+  <link> https://lab.krastanov.org/undergrad-qis/index.html </link>
+  <guid> https://lab.krastanov.org/undergrad-qis/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
+  </description>  
+    
+  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Graduate Quantum Information Science  ]]>
   </title>
   <link> https://lab.krastanov.org/grad-qis/index.html </link>
@@ -80,12 +99,12 @@
 
 <item>
   <title>
-    <![CDATA[  Practice Problems on Undergraduate Quantum Information Science  ]]>
+    <![CDATA[  Practice Problems on Quantum Information Science  ]]>
   </title>
   <link> https://lab.krastanov.org/undergrad-qis-quiz/index.html </link>
   <guid> https://lab.krastanov.org/undergrad-qis-quiz/index.html </guid>
   <description>
-    <![CDATA[  Practice problems for the Undergrad QIS class. These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge.  ]]>
+    <![CDATA[  Practice problems for the QIS class. These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge.  ]]>
   </description>  
     
   <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
@@ -105,6 +124,25 @@
   <guid> https://lab.krastanov.org/independentstudy/index.html </guid>
   <description>
     <![CDATA[  Independent Study projects at the Krastanov Lab at UMass Amherst.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Undergraduate Quantum Information Science - Spring of 2023  ]]>
+  </title>
+  <link> https://lab.krastanov.org/undergrad-qis-2023-H1/index.html </link>
+  <guid> https://lab.krastanov.org/undergrad-qis-2023-H1/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
   </description>  
     
   <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
@@ -219,25 +257,6 @@
   <guid> https://lab.krastanov.org/sysadminonboarding/index.html </guid>
   <description>
     <![CDATA[  IT Craftsmanship Skills that would make you much more productive.  ]]>
-  </description>  
-    
-  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Stefan Krastanov</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Undergraduate Quantum Information Science  ]]>
-  </title>
-  <link> https://lab.krastanov.org/undergrad-qis/index.html </link>
-  <guid> https://lab.krastanov.org/undergrad-qis/index.html </guid>
-  <description>
-    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
   </description>  
     
   <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
