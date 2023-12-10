@@ -1,15 +1,15 @@
 +++
-title = "Practice Problems on Undergraduate Quantum Information Science"
+title = "Practice Problems on Quantum Information Science"
 hascode = true
-rss = "Practice problems for the Undergrad QIS class. These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge."
-rss_title = "Practice Problems on Undergraduate Quantum Information Science"
+rss = "Practice problems for the QIS class. These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge."
+rss_title = "Practice Problems on Quantum Information Science"
 rss_pubdate = Date(2023, 1, 1)
 
 tags = ["teaching"]
 +++
 
 
-Practice problems for the [Undergrad QIS class](/undergrad-qis). These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge.
+Practice problems for the QIS class, either [undergrad](/undergrad-qis) or [grad](/grad-qis) versions. These are not mandatory homeworks, but they can help you in preparing for the class and deepening your knowledge in the first couple of weeks.
 
 \toc
 
@@ -51,7 +51,7 @@ This is not too important for the class, but it could be useful and it is an int
 
 ### Reversible Processes
 
-Are stochastic matrices invertible? What are the implications of your answer (something about entropy or chaos or undoing, maybe)?
+When are stochastic matrices invertible? What properties have the stochastic matrices that represent reversible processes?
 
 ### State Vectors
 
