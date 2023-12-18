@@ -160,16 +160,16 @@ cutoff | grade
 |:--|:--|
 0 | F
 0.7 | C 
-0.75 | C+ 
-0.8 | B-
-0.825 | B 
-0.85 | B+
-0.875 | A-
-0.9 | A
+0.775 | C+ 
+0.825 | B-
+0.85 | B 
+0.875 | B+
+0.90 | A-
+0.925 | A
 
 ### Comparing to past years
 
-The class this year will have more homeworks and practice problems compared to last year. The midterms/final will be slightly more difficult than last year. Here are some statistics from last year:
+The class this year will have more homeworks and practice problems compared to last year. The midterms/final will be slightly more difficult than last year. The A threshold is moved up by 0.025 this year. Here are some statistics from last year:
 
 Workload ratings from students in 2023:
 
