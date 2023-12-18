@@ -159,7 +159,7 @@ The mapping for the letter grades is:
 cutoff | grade
 |:--|:--|
 0 | F
-0.7 | C 
+0.725 | C 
 0.775 | C+ 
 0.825 | B-
 0.85 | B 
