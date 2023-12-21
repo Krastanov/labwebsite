@@ -24,8 +24,11 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 | Location    | CS 140 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
 | Time        | MW 10:30-11:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours Wed after class |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | TBA  |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [TBA@umass.edu](TBA@umass.edu)  |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Anthony Micciche   |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [amicciche@umass.edu](mailto:amicciche@umass.edu)  |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Undergrad TAs**          | Luc Barrett [labarrett@umass.edu](labarrett@umass.edu) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Ben Kuchma [bkuchma@umass.edu](bkuchma@umass.edu) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours TBA |
 
 @@
@@ -152,7 +155,7 @@ A 3 credit undergrad class graded as Letter Grade or Optional Student Grading. L
 - 20% each midterm
 - 20% final
 
-Homework late return policy: each day the homework is late, the grade for that particular homework is lowered by a factor of 0.8, compounding.
+Homework late return policy: each day the homework is late, the grade for that particular homework is lowered by a factor of 0.9, compounding.
 
 The mapping for the letter grades is:
 
