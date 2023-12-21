@@ -82,3 +82,5 @@ Similarly to Clifford circuits, Gaussian quantum optics does not provide computa
 ## Algorithms and Computational Complexity
 
 [Scott Aaronson's blog, essays, and books](https://www.scottaaronson.com/) are a good introduction to the topic. His [Quantum Computing Since Democritus](https://en.wikipedia.org/wiki/Quantum_Computing_Since_Democritus) is a good self-contained book.
+
+A [review on most known quantum algorithms](https://arxiv.org/abs/2310.03011) and detailed description of how they compare to classical algorithms.
