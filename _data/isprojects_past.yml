@@ -7,7 +7,7 @@
     long range carrier of quantum information. Modeling the interaction of such a photon with a
     local node can be difficult if we are to capture the entirety of the analog quantum dynamics.
     This project builds a number of related simulation techniques and algorithms, in particular
-    focused on being able to model aritrary wave-packet profiles.
+    focused on being able to model arbitrary wave-packet profiles.
   results:
   - result: "[`CavityWaiveguide.jl` prototype](https://github.com/mabuni1998/CavityWaveguide) of a library extending `QuantumOptics.jl`."
 - title: Expander graphs and Cayley complexes for Quantum LDPC codes

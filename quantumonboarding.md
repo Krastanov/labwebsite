@@ -75,7 +75,7 @@ Much of the Clifford circuits reading list is applicable to the topic of qubit e
 
 For resilient encoding of information in quantum harmonic oscillators we use "bosonic" error correcting codes. Most important would be the GKP, cat, and binomial codes.
 
-## Gausian Quantum Optics
+## Gaussian Quantum Optics
 
 Similarly to Clifford circuits, Gaussian quantum optics does not provide computational advantage and is easy to simulate on a classical computer, but it is an important building block of quantum hardware. [Gaussian Quantum Information in Rev. Mod. Phys.](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.84.621) is a good overview.
 
