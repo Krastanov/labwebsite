@@ -10,7 +10,7 @@ tags = ["teaching"]
 
 # Teaching
 
-## Indepenent study projects
+## Independent study projects
 
 We have a number of spots open for independent study projects at the BS and MS level. You can peruse the [detailed list](/independentstudy).
 
