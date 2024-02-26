@@ -23,13 +23,13 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 | Spring  |  2024   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
 | Location    | CS 140 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
 | Time        | MW 10:30-11:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours Mon/Wed after class |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours after class and Tue 2:30pm-3pm over [zoom](https://umass-amherst.zoom.us/my/krastanov) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Anthony Micciche   |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [amicciche@umass.edu](mailto:amicciche@umass.edu)  |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours LGRT 220 Fri 3-4pm |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Undergrad TAs**          | Luc Barrett [labarrett@umass.edu](labarrett@umass.edu) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Ben Kuchma [bkuchma@umass.edu](bkuchma@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours Hasbrouck 115 Mon 12pm-1pm and CS 207 Mon 2:30pm-3:30pm |
 
 @@
 @@
