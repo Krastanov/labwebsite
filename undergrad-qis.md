@@ -26,7 +26,7 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours after class and Tue 2:30pm-3pm over [zoom](https://umass-amherst.zoom.us/my/krastanov) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Anthony Micciche   |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [amicciche@umass.edu](mailto:amicciche@umass.edu)  |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours LGRT 220 Fri 3-4pm |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours LGRT 220 Fri 2-3pm |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Undergrad TAs**          | Luc Barrett [labarrett@umass.edu](labarrett@umass.edu) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Ben Kuchma [bkuchma@umass.edu](bkuchma@umass.edu) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours CS 140 Mon 12pm-1pm and CS 207 Mon 2:30pm-3:30pm |
