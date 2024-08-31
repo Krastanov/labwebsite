@@ -3,7 +3,7 @@ title = "Graduate Quantum Information Science"
 hascode = true
 rss = "Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering"
 rss_title = "Graduate Quantum Information Science"
-rss_pubdate = Date(2023, 1, 1)
+rss_pubdate = Date(2024, 1, 1)
 
 tags = ["teaching"]
 +++
@@ -20,24 +20,37 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 
 ||||||
 |--:|:--|---|--:|:--|
-| Fall  |  2023   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
+| Fall  |  2024   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
 | Location    | CS 142 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
-| Time        | MW 11:30-12:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof. Office Hours: after lectures and on demand |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Mohammad Mobayenjarihani |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [mobayen@cs.umass.edu](mailto:mobayen@cs.umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | TA Office Hours: LGRC T222, 8am-9am Mondays |
+| Days        | TueThu |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
+| Time        | 11:30-12:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Luc	Barrett |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [labarrett@umass.edu](mailto:labarrett@umass.edu) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Zhiheng	Wang |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [zhihengwang@umass.edu](mailto:zhihengwang@umass.edu) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**UCA**        | Aditya	Patil |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [adityapatil@umass.edu](mailto:adityapatil@umass.edu) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**UCA**        | Benjamin	Kuchma |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [bkuchma@umass.edu](mailto:bkuchma@umass.edu) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
 
 @@
 @@
 
 Website at [lab.krastanov.org/grad-qis](https://lab.krastanov.org/grad-qis/).
 
-Online course management through [Canvas](https://umamherst.instructure.com/courses/6546).
+Previous versions of the class: [2023](https://lab.krastanov.org/grad-qis-2023-H2/).
+
+Online course management through [Canvas](https://umamherst.instructure.com/courses/23137).
 
 ## Prerequisites
 
 Strong background in probability theory and linear algebra.
+
+No physics background necessary.
 
 ## Learning Objectives
 
@@ -55,13 +68,10 @@ Strong background in probability theory and linear algebra.
 |3| Measurement | Projectors, partial measurements, non-commuting measurements, subsystems
 |4,5| Entanglement | Classical vs quantum correlation, Bell's game and Bell's inequality |
 |6| Quantum Key Distribution | Indistinguishability of eavesdropper and noise |
-|7| Teleportation | State teleportation, gate teleportation, ultradense coding |
-|8,9| Quantum Algorithms | Algorithms of Deutsch–Jozsa, Bernstein–Vazirani, Simon, Shor, Fourier Transform, Phase Estimation |
-|10| Quantum Algorithms | Grover's search, Quantum Random Walks
-|11| Quantum Algorithms | Chemistry simulations, optimizations
-|12| Quantum Algorithms | Linear Algebra, Machine Learning
+|7| Teleportation | State teleportation, gate teleportation, superdense coding |
+|8-12| Quantum Algorithms | Algorithms of Deutsch–Jozsa, Bernstein–Vazirani, Simon, Shor, Fourier Transform, Grover's search
 |13,14| Classical Uncertainty in QIS | Density matrices, Partial trace, Purity, CPTP maps, Krauss operators, Quantum Trajectories
-|15| Noisy Entanglement | Entanglement purification and distillation |
+|15| Noisy Entanglement | Error detection, Entanglement purification and distillation |
 |16,17,18| Noisy Quantum Memories | Error correction, Linear Binary Codes, Stabilizer Codes, Syndrome measurement, Syndrome decoding, Repetition code, CSS code, Toric code, LDPC code
 |20,21,22| Noisy Quantum Computation | Fault tolerance, Fault tolerant syndrome measurement, Transversal gates, Magic states
 |23,24| Efficient Classical Simulations | Stabilizer states, Clifford circuits
@@ -71,9 +81,14 @@ Strong background in probability theory and linear algebra.
 
 A variety of materials will be provided as the class progresses and each lecture will have suggested readings from multiple sources. You can see a [preview of the most important sources](/quantumonboarding).
 
-## Exercises
+The majority of the class will be based on Scott Aaronson's lecture notes and the Nielsen & Chuang textbook.
 
-There are [optional ungraded exercises](/undergrad-qis-quiz) you can use to practice. Office hours would be a good place to discuss them.
+
+## Onboarding Exercises
+
+There are [optional ungraded exercises](/undergrad-qis-quiz) you can use to gauge your preparedness in terms of prerequisites and basic algebraic techniques taught in the first few weeks of class. Office hours would be a good place to discuss them.
+
+The Nielsen and Chuang textbook has a lot of exercises that you should be working through on your own time to prepare, in addition to the homeworks.
 
 ## Calendar
 
@@ -81,16 +96,16 @@ There are [optional ungraded exercises](/undergrad-qis-quiz) you can use to prac
 
 #### Exams:
 
-- Midterm, take home exam, 7am-11:59pm, Date Oct 25th
+- Midterm, take home exam, 7am-11:59pm, Date TBD
 - Final, in-person written exam, date TBD
 
 Take home exams are completely open book and open internet, but no communication with other sentient beings is permitted (e.g., yes to using search engines, no to asking new questions on forums, no to working with classmates).
 
-The final exam is open book, but you can bring only non-electronic resources (e.g., books and notes, but for best results rely on your own notes).
+The final exam is open book, but you can bring only non-electronic resources (e.g., books and notes, but for best results rely on your own notes) or a non-networked electronic device on which to read your notes or electronic textbooks.
 
 #### Homeworks:
 
-Six homeworks. Due on Friday of the same week they were given. Given on TBD.
+Seven homeworks. Due on Friday of the same week they were given. Given on TBD.
 
 Extra credit or ungraded homeworks might be considered.
 
@@ -98,20 +113,21 @@ Collaboration is encouraged for the homeworks (and should be disclosed), but the
 
 |Week|Content|
 |---|---|
-|Seb 4| 2 lectures |
-|Sep 11| 2 lectures |
-|Sep 18| 2 lectures |
-|Sep 25| 2 lectures |
-|Oct 2| 2 lectures |
-|Oct 9| 1 lecture on Thu (Tue on Mon schedule)|
-|Oct 16| 2 lectures |
-|Oct 23| 2 lectures |
-|Oct 30| 2 lectures |
-|Nov 6| 2 lectures |
-|Nov 13| 2 lectures |
-|Nov 20| 1 lecture on Tue (Thangksgiving reces)|
-|Nov 27| 2 lectures |
-|Dec 4| 2 lectures |
+|Sep 2 | 1 lecture on Thu |
+|Sep 9| 2 lectures |
+|Sep 16| 2 lectures |
+|Sep 23| 2 lectures |
+|Sep 30| 2 lectures |
+|Oct 7 | 2 lectures |
+|Oct 14| 1 lecture on Thu (Tue on Mon schedule)|
+|Oct 21| 2 lectures |
+|Oct 28| 2 lectures |
+|Nov 4 | 1 lectures on Thu (Election day) |
+|Nov 11| 2 lectures |
+|Nov 18| 2 lectures |
+|Nov 25| 1 lecture on Tue (Thangksgiving break)|
+|Dec 2 | 2 lectures |
+|Dec 9 | 1 lecture on Tue (last day of classes) |
 
 ## Topics not covered
 
@@ -136,7 +152,7 @@ These are important topics we will not have the time to cover, but you might wan
 
 Homework late return policy: each day the homework is late, the grade for that particular homework is lowered by a factor of 0.7, compounding. 
 
-Your worst homework grade is not counted (i.e., you do not need to ask for extensions -- you get one freebie).
+Your worst homework grade is not counted (i.e., you do not need to ask for extensions -- you get one freebie that you can decide to use when you wish and nothing more).
 
 ## Use of Tools (solvers, textbooks, AI, etc) during exams and for homework
 
