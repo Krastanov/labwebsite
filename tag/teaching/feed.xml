@@ -23,10 +23,10 @@
 
 <item>
   <title>
-    <![CDATA[  Undergraduate Quantum Information Science  ]]>
+    <![CDATA[  Graduate Quantum Information Science  ]]>
   </title>
-  <link> https://lab.krastanov.org/undergrad-qis/index.html </link>
-  <guid> https://lab.krastanov.org/undergrad-qis/index.html </guid>
+  <link> https://lab.krastanov.org/grad-qis/index.html </link>
+  <guid> https://lab.krastanov.org/grad-qis/index.html </guid>
   <description>
     <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
   </description>  
@@ -42,15 +42,15 @@
 
 <item>
   <title>
-    <![CDATA[  Graduate Quantum Information Science  ]]>
+    <![CDATA[  Undergraduate Quantum Information Science  ]]>
   </title>
-  <link> https://lab.krastanov.org/grad-qis/index.html </link>
-  <guid> https://lab.krastanov.org/grad-qis/index.html </guid>
+  <link> https://lab.krastanov.org/undergrad-qis/index.html </link>
+  <guid> https://lab.krastanov.org/undergrad-qis/index.html </guid>
   <description>
     <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
   </description>  
     
-  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -143,6 +143,25 @@
   <guid> https://lab.krastanov.org/grad-qecc/index.html </guid>
   <description>
     <![CDATA[  Overview Class on the development of Quantum Error Correction and Fault Tolerance, including topological codes, quantum LDPC codes, and their decoders.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Graduate Quantum Information Science  ]]>
+  </title>
+  <link> https://lab.krastanov.org/grad-qis-2023-H2/index.html </link>
+  <guid> https://lab.krastanov.org/grad-qis-2023-H2/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
   </description>  
     
   <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>  
