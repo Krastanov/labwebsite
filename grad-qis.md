@@ -22,8 +22,8 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 |--:|:--|---|--:|:--|
 | Fall  |  2024   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
 | Location    | CS 142 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
-| Days        | TueThu |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-| Time        | 11:30-12:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
+| Days        | MonWed |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
+| Time        | 12:20-13:35 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Luc	Barrett |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [labarrett@umass.edu](mailto:labarrett@umass.edu) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
@@ -113,21 +113,21 @@ Collaboration is encouraged for the homeworks (and should be disclosed), but the
 
 |Week|Content|
 |---|---|
-|Sep 2 | 1 lecture on Thu |
+|Sep 2 | 1 lecture on Wed |
 |Sep 9| 2 lectures |
 |Sep 16| 2 lectures |
 |Sep 23| 2 lectures |
 |Sep 30| 2 lectures |
 |Oct 7 | 2 lectures |
-|Oct 14| 1 lecture on Thu (Tue on Mon schedule)|
+|Oct 14| 2 lectures (Tue on Mon schedule)|
 |Oct 21| 2 lectures |
 |Oct 28| 2 lectures |
-|Nov 4 | 1 lectures on Thu (Election day) |
-|Nov 11| 2 lectures |
+|Nov 4 | 2 lectures |
+|Nov 11| 1 lecture on Wed (Mon is holiday) |
 |Nov 18| 2 lectures |
-|Nov 25| 1 lecture on Tue (Thangksgiving break)|
+|Nov 25| 1 lecture on Mon (Thangksgiving break)|
 |Dec 2 | 2 lectures |
-|Dec 9 | 1 lecture on Tue (last day of classes) |
+|Dec 9 | 1 lecture on Mon |
 
 ## Topics not covered
 
