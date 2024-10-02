@@ -26,16 +26,13 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 | Time        | 12:20-13:35 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Luc	Barrett |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [labarrett@umass.edu](mailto:labarrett@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see piazza |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Zhiheng	Wang |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [zhihengwang@umass.edu](mailto:zhihengwang@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**UCA**        | Aditya	Patil |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [adityapatil@umass.edu](mailto:adityapatil@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see piazza |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**UCA**        | Benjamin	Kuchma |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [bkuchma@umass.edu](mailto:bkuchma@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: TBA |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see piazza |
 
 @@
 @@
@@ -96,7 +93,7 @@ The Nielsen and Chuang textbook has a lot of exercises that you should be workin
 
 #### Exams:
 
-- Midterm, take home exam, 7am-11:59pm, Date TBD
+- Midterm, take home exam, 7am-11:59pm, Tuesday October 15
 - Final, in-person written exam, date TBD
 
 Take home exams are completely open book and open internet, but no communication with other sentient beings is permitted (e.g., yes to using search engines, no to asking new questions on forums, no to working with classmates).
@@ -105,7 +102,7 @@ The final exam is open book, but you can bring only non-electronic resources (e.
 
 #### Homeworks:
 
-Seven homeworks. Due on Friday of the same week they were given. Given on TBD.
+Seven homeworks.
 
 Extra credit or ungraded homeworks might be considered.
 
