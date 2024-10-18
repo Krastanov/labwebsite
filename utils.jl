@@ -133,3 +133,30 @@ function lx_isprojectspast(com, _)
     end
     return String(take!(io))
 end
+
+###
+# Team Members
+###
+
+team = YAML.load_file("./_data/team_members.yml")
+
+function hfun_team()
+    io = IOBuffer()
+    print(team)
+    i = 0
+    for member in team
+        history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in member["history"]])
+        print(io, """
+        <div class="">
+        <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
+        <h3>$(member["name"])</h3>
+        <small>$(member["info"])<br>$(member["email"])<br><a href="https://$(member["website"])">$(member["website"])</a></small>
+        <ul style="overflow:hidden;list-style:none;margin:0;">
+        $(history)
+        </ul>
+        </div>
+        """)
+        i+=1
+    end
+    String(take!(io))
+end
