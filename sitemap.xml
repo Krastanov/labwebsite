@@ -32,6 +32,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://lab.krastanov.org/team/index.html</loc>
+    <lastmod>2024-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://lab.krastanov.org/independentstudy/index.html</loc>
     <lastmod>2024-10-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -57,12 +63,6 @@
 </url>
 <url>
     <loc>https://lab.krastanov.org/home/index.html</loc>
-    <lastmod>2024-10-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://lab.krastanov.org/unfinished_team/index.html</loc>
     <lastmod>2024-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

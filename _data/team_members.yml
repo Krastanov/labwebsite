@@ -1,10 +1,10 @@
 - name: Stefan Krastanov
   photo: Stefan1.jpg
-  info: Asst. Professor of CS<br>Adj. Professor of Physics
+  info: Professor of CS & Physics
   time: started Sep 2022
   email: skrastanov@umass.edu
   website: blog.krastanov.org
   history:
-    - Master, Sciences de la matière, [ENS Lyon, France](https://www.ens-lyon.fr)
-    - PhD, Physics, [Yale Quantum Institute](https://quantuminstitute.yale.edu/)
-    - Postdoc, [MIT/Harvard](https://www.rle.mit.edu/qp)
+    - Master, Sciences de la matière, <a href="https://www.ens-lyon.fr">ENS Lyon, France</a>
+    - PhD, Physics, <a href="https://quantuminstitute.yale.edu/">Yale Quantum Institute</a>
+    - Postdoc, <a href="https://www.rle.mit.edu/qp">MIT/Harvard</a>
