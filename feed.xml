@@ -42,25 +42,6 @@
 
 <item>
   <title>
-    <![CDATA[  The Team  ]]>
-  </title>
-  <link> https://lab.krastanov.org/team/index.html </link>
-  <guid> https://lab.krastanov.org/team/index.html </guid>
-  <description>
-    <![CDATA[  The members of the Krastanov Lab at UMass Amherst.  ]]>
-  </description>  
-    
-  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Stefan Krastanov</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  Undergraduate Quantum Information Science  ]]>
   </title>
   <link> https://lab.krastanov.org/undergrad-qis/index.html </link>
