@@ -150,7 +150,7 @@ function hfun_team()
         <div class="">
         <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
         <h3>$(member["name"])</h3>
-        <small>$(member["info"])<br>$(member["email"])<br><a href="https://$(member["website"])">$(member["website"])</a></small>
+        <small>$(member["info"])<br>$(member["email"])<br>$(member["website"])</small>
         <ul style="overflow:hidden;list-style:none;margin:0;">
         $(history)
         </ul>
