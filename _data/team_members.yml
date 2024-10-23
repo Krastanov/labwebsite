@@ -3,11 +3,22 @@
   info: Professor of CS & Physics
   time: started Sep 2022
   email: skrastanov@umass.edu
-  website: blog.krastanov.org
+  website: <a href="https://blog.krastanov.org">blog.krastanov.org</a>
   history:
     - Master, Sciences de la matière, <a href="https://www.ens-lyon.fr">ENS Lyon, France</a>
     - PhD, Physics, <a href="https://quantuminstitute.yale.edu/">Yale Quantum Institute</a>
     - Postdoc, <a href="https://www.rle.mit.edu/qp">MIT/Harvard</a>
+- name: Guus Avis
+  photo: Guus1.jpg
+  info: Postdoctoral Researcher
+  time: started August 2023
+  email: gavis@umass.edu
+  website: <a href="https://scholar.google.com/citations?user=ZOhYdlkAAAAJ&hl=en&oi=ao">Google Scholar</a>
+  history:
+    - Bachelor of Science, Physics, <a href="https://www.rug.nl/bachelors/physics/?lang=en">University of Groningen</a>
+    - Bachelor of Arts, Philosophy of Physics, <a href="https://www.rug.nl/bachelors/philosophy-of-a-specific-discipline/?lang=en">University of Groningen</a>
+    - Master of Science, Theoretical Physics, <a href="https://www.uu.nl/en/masters/theoretical-physics">University of Utrecht</a>
+    - PhD, Quantum Networks, <a href="https://qutech.nl/lab/wehner-group/">Delft University of Technology</a>
 - name: Anthony Micciche
   photo: Anthony1.jpg
   info: Computer Science PhD Student 
