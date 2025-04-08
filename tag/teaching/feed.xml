@@ -42,6 +42,44 @@
 
 <item>
   <title>
+    <![CDATA[  Make: Physical Computing  ]]>
+  </title>
+  <link> https://lab.krastanov.org/undergrad-physcomp/index.html </link>
+  <guid> https://lab.krastanov.org/undergrad-physcomp/index.html </guid>
+  <description>
+    <![CDATA[  Intro class on the basics of physical computing  ]]>
+  </description>  
+    
+  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Graduate Quantum Information Science  ]]>
+  </title>
+  <link> https://lab.krastanov.org/grad-qis-2024-H2/index.html </link>
+  <guid> https://lab.krastanov.org/grad-qis-2024-H2/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
+  </description>  
+    
+  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Undergraduate Quantum Information Science  ]]>
   </title>
   <link> https://lab.krastanov.org/undergrad-qis/index.html </link>
