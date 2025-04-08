@@ -9,15 +9,11 @@ tags = ["teaching"]
 +++
 
 
-# COMPSCI 590Q/648: Quantum Information Systems
+# COMPSCI 648: Quantum Information Systems - Fall of 2024
 
 Quantum information science (QIS) revolutionizes our understanding of the fundamental laws of the universe and promises world-altering improvements in a number of practical computational tasks. For theoretical computer scientists, QIS provides the means to unlock the ultimate computational powers available to us in this universe. For programmers and computer engineers, QIS offers the tools to run simulations and optimizations otherwise infeasible on classical computers. For theoretical physicists, QIS gives us hope of resolving paradoxes foundational to our understanding of Nature. And for experimentalists and engineers, QIS also enables the creation of exquisite sensors and novel communication tools, far outperforming what is classically permitted.
 
 This class will introduce the notion of quantum probability amplitudes, i.e., the "correct" probabilistic description of Nature, and describe how these quantum phenomena permit the creation of new types of computational machines. The introduction to foundational quantum information science will be followed by a few practical (and impractical) quantum algorithms, illustrating the counterintuitive computational powers of quantum mechanics. The latter half of the class will focus on the difficulties of creating such extremely fragile computational machines in our noisy and unforgiving real world.
-
-The 500 and 600 level of this course will share lectures, homeworks, and exams.
-
-The 600 level of this course will also incorporate a for-credit final project assignment either in (1) classical numerical simulations of quantum devices or (2) utilizing cloud APIs for control of experimental quantum hardware (far too immature to run complete algorithms, but sufficient for small tech demos).
 
 @@noborders
 @@shorttable
