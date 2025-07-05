@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Graduate Seminar on Quantum Error Correcting Codes and Fault Tolerant Computation  ]]>
+  </title>
+  <link> https://lab.krastanov.org/grad-faulttolerance/index.html </link>
+  <guid> https://lab.krastanov.org/grad-faulttolerance/index.html </guid>
+  <description>
+    <![CDATA[  Overview Class on the development of Quantum Error Correction and Fault Tolerance.  ]]>
+  </description>  
+    
+  <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Graduate Quantum Information Science  ]]>
   </title>
   <link> https://lab.krastanov.org/grad-qis/index.html </link>
