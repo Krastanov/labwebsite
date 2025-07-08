@@ -24,6 +24,8 @@ We work on the design, control, and optimization of quantum hardware for computa
 
 [Independent study projects for undergrads and MS students](/independentstudy)
 
+[We manage many projects in the scientific open source software ecosystem](https://github.com/QuantumSavory)
+
 <!--TODO
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
   <ol class="carousel-indicators">
