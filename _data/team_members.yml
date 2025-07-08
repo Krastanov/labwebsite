@@ -45,6 +45,15 @@
   website: ""
   history:
     - Bachelor of Science, Physics
+- name: Joseph Majesky
+  photo: placeholder_profilepic.png
+  info: Computer Science PhD Student 
+  time: started Sep 2023
+  email: jmajesky@umass.edu
+  website: ""
+  history:
+    - Bachelor of Science, Computer Science
+    - Bachelor of Science, Physics
 - name: Leonardo Bacciottini 
   photo: placeholder_profilepic.png
   info: Postdoctoral Researcher
