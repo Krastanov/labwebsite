@@ -27,6 +27,10 @@ Website at [lab.krastanov.org/grad-faulttolerance](https://lab.krastanov.org/gra
 
 ---
 
+Monolithic quantum hardware is reaching the limits of scalable fabrication, linking hardware module in local (single fridge) networks is becoming a practical possibility, error correcting codes much better than surface codes are being deployed and universal fault-tolerant computation on them is now a theoretically solved problem
+
+It has never been more exciting to see all the pieces needed for scalable universal quantum computation coming together. This seminar will provide an overview of everything necessary for the complete fault tolerant architecture behind a quantum computer.
+
 The first few weeks of this course will consist of introduction to classical and quantum error correction through lectures by the instructors. After the introduction is completed, we will transition to the seminar part of the course where students will be studying and presenting recent advancements in quantum error correction. The main focus would be on topological codes like the surface and toric codes, and on good quantum codes like the recently developed quantum LDPC codes.
 
 Students can register for either:

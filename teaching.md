@@ -26,6 +26,16 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 
 See more at the [undergrad class page](/undergrad-qis/) and the [grad class page](/grad-qis/).
 
+## COMPSCI 6xxx: Fault Tolerant Quantum Computing
+
+A graduate seminar.
+
+Monolithic quantum hardware is reaching the limits of scalable fabrication, linking hardware module in local (single fridge) networks is becoming a practical possibility, error correcting codes much better than surface codes are being deployed and universal fault-tolerant computation on them is now a theoretically solved problem
+
+It has never been more exciting to see all the pieces needed for scalable universal quantum computation coming together. This seminar will provide an overview of everything necessary for the complete fault tolerant architecture behind a quantum computer.
+
+See more at the [class page](/grad-faulttolerance/).
+
 ## COMPSCI 692U: Quantum Error Correcting Codes
 
 A graduate seminar.
