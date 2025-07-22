@@ -15,8 +15,8 @@ tags = ["teaching", "ECC", "fault tolerance"]
 
 |||
 |--:|:--|
-| Fall 2025 | Prof. Stefan Krastanov & Prof. Filip Rozpedek |
-| location TBD | time TBD |
+| Fall 2025 | Prof. Stefan Krastanov & Prof. Don Towsley |
+| CS 140 | Wed 11:30-13:30 |
 
 @@
 @@
