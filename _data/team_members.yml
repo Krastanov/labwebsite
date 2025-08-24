@@ -19,6 +19,14 @@
     - Bachelor of Arts, Philosophy of Physics, <a href="https://www.rug.nl/bachelors/philosophy-of-a-specific-discipline/?lang=en">University of Groningen</a>
     - Master of Science, Theoretical Physics, <a href="https://www.uu.nl/en/masters/theoretical-physics">University of Utrecht</a>
     - PhD, Quantum Networks, <a href="https://qutech.nl/lab/wehner-group/">Delft University of Technology</a>
+- name: Leonardo Bacciottini 
+  photo: placeholder_profilepic.png
+  info: Postdoctoral Researcher
+  time: started May 2025
+  email: lbacciottini@umass.edu
+  website: ""
+  history:
+    - PhD
 - name: Anthony Micciche
   photo: Anthony1.jpg
   info: Computer Science PhD Student 
@@ -38,7 +46,7 @@
     - Bachelor of Science, Physics, <a href="https://physics.case.edu/">Case Western Reserve University</a>
     - Bachelor of Science, Mathematics, <a href="https://mathstats.case.edu/">Case Western Reserve University</a>
 - name: Yipiao Wu (吴怡飘)
-  photo: placeholder_profilepic.png
+  photo: Yipiao1.jpg
   info: Physics PhD Student 
   time: started Sep 2023
   email: yipiaowu@umass.edu
@@ -54,14 +62,6 @@
   history:
     - Bachelor of Science, Computer Science
     - Bachelor of Science, Physics
-- name: Leonardo Bacciottini 
-  photo: placeholder_profilepic.png
-  info: Postdoctoral Researcher
-  time: started May 2025
-  email: lbacciottini@umass.edu
-  website: ""
-  history:
-    - PhD
 - name: Feroz Ahmed Mian (فیروز احمد میاں)
   photo: Feroz1.jpg
   info: Computer Science PhD Student
