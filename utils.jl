@@ -145,6 +145,7 @@ function hfun_team()
     print(team)
     i = 0
     for member in team
+        get(member, past, "false") == "true" && continue
         history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in member["history"]])
         print(io, """
         <div class="">
@@ -154,6 +155,27 @@ function hfun_team()
         <ul style="overflow:hidden;list-style:none;margin:0;">
         $(history)
         </ul>
+        </div>
+        """)
+        i+=1
+    end
+    String(take!(io))
+end
+
+function hfun_team_past()
+    io = IOBuffer()
+    print(team)
+    i = 0
+    for member in team
+        get(member, past, "false") == "true" || continue
+        history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in member["history"]])
+        print(io, """
+        <div class="">
+        <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
+        <h3>$(member["name"])</h3>
+        <small>$(member["info"])<br>$(member["email"])<br>$(member["website"])</small>
+        <br><small>$(member["time"])</small>
+        <br><small>Now: $(member["movedto"])</small>
         </div>
         """)
         i+=1

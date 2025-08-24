@@ -13,3 +13,11 @@ tags = ["team"]
 [We are  looking for new PhD students, Postdocs, and Master students to join the team!](/vacancies)
 
 {{team}}
+
+## Undergrads
+
+[Look here for undergrad projects done within the lab.](/pastindependentstudy)
+
+## Past members
+
+{{team_past}}
