@@ -146,7 +146,7 @@ function hfun_team()
     i = 0
     for member in team
         get(member, "past", "false") == "true" && continue
-        history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in member["history"]])
+        history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in get(member,"history",[])])
         print(io, """
         <div class="">
         <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
