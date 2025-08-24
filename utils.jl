@@ -145,7 +145,7 @@ function hfun_team()
     print(team)
     i = 0
     for member in team
-        get(member, past, "false") == "true" && continue
+        get(member, "past", "false") == "true" && continue
         history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in member["history"]])
         print(io, """
         <div class="">
@@ -167,7 +167,7 @@ function hfun_team_past()
     print(team)
     i = 0
     for member in team
-        get(member, past, "false") == "true" || continue
+        get(member, "past", "false") == "true" || continue
         history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in member["history"]])
         print(io, """
         <div class="">
