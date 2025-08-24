@@ -148,7 +148,7 @@ function hfun_team()
         get(member, "past", "false") == "true" && continue
         history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in get(member,"history",[])])
         print(io, """
-        <div class="">
+        <div class="" style="overflow: auto; margin: 2em;">
         <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
         <h3>$(member["name"])</h3>
         <small>$(member["info"])<br>$(member["email"])<br>$(member["website"])</small>
@@ -169,7 +169,7 @@ function hfun_team_past()
     for member in team
         get(member, "past", "false") == "true" || continue
         print(io, """
-        <div class="">
+        <div class="" style="overflow: auto; margin: 2em;">
         <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
         <h3>$(member["name"])</h3>
         <small>$(member["info"])<br>$(member["email"])<br>$(member["website"])</small>
