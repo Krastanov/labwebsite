@@ -12,7 +12,7 @@ tags = ["team"]
 
 [We are  looking for new PhD students, Postdocs, and Master students to join the team!](/vacancies)
 
-{{team}}
+{{team false}}
 
 ## Undergrads
 
@@ -20,4 +20,4 @@ tags = ["team"]
 
 ## Past members
 
-{{team_past}}
+{{team true}}

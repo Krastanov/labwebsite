@@ -140,41 +140,33 @@ end
 
 team = YAML.load_file("./_data/team_members.yml")
 
-function hfun_team()
+function hfun_team(past)
     io = IOBuffer()
-    print(team)
+    past = parse(Bool, past[1])
     i = 0
     for member in team
-        get(member, "past", "false") == "true" && continue
-        history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in get(member,"history",[])])
-        print(io, """
-        <div class="" style="overflow: auto; margin: 2em;">
-        <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
-        <h3>$(member["name"])</h3>
-        <small>$(member["info"])<br>$(member["email"])<br>$(member["website"])</small>
-        <ul style="overflow:hidden;list-style:none;margin:0;">
-        $(history)
+        get(member, "past", false) == past || continue
+        __history = join(["""<li style="margin:0;"><small> $(entry) </small></li>""" for entry in get(member,"history",[])])
+        _history = """
+        <ul style="overflow:hidden;list-style:none;margin:0;justify-content:flex-start;">
+        $(__history)
         </ul>
-        </div>
-        """)
-        i+=1
-    end
-    String(take!(io))
-end
-
-function hfun_team_past()
-    io = IOBuffer()
-    print(team)
-    i = 0
-    for member in team
-        get(member, "past", "false") == "true" || continue
+        """
+        history = past ? "" : _history
+        movedto = past ? """<br><small>Now: $(member["movedto"])</small>""" : ""
+        email = past ? "" : """<br>$(member["email"])"""
         print(io, """
-        <div class="" style="overflow: auto; margin: 2em;">
-        <img src="/assets/$(member["photo"])" style="float:left;margin-left:0;padding-left:0;margin-right:1rem;border-radius:45%;width:25%;" />
+        <div class="" style="display:flex; flex-direction:row">
+        <div>
+        <img src="/assets/$(member["photo"])" style="margin:1em;padding:0;border-radius:50%;width:10em;height:10em;max-width:10em;max-height:10em;object-fit:cover;" />
+        </div>
+        <div>
         <h3>$(member["name"])</h3>
-        <small>$(member["info"])<br>$(member["email"])<br>$(member["website"])</small>
+        <small>$(member["info"])$email<br>$(member["website"])</small>
         <br><small>$(member["time"])</small>
-        <br><small>Now: $(member["movedto"])</small>
+        $movedto
+        $history
+        </div>
         </div>
         """)
         i+=1
