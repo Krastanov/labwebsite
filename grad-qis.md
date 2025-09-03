@@ -27,7 +27,7 @@ The 600 level of this course will also incorporate a for-credit final project as
 | Fall  |  2025   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
 | Location    | LGRC A104A |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
 | Days        | MonWed |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-| Time        | 14:20-15:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
+| Time        | 14:30-15:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Evan Ciccarelli |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [eciccarelli@umass.edu](mailto:eciccarelli@umass.edu) |
 |             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see canvas |
