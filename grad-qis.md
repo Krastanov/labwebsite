@@ -3,7 +3,7 @@ title = "Graduate Quantum Information Science"
 hascode = true
 rss = "Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering"
 rss_title = "Graduate Quantum Information Science"
-rss_pubdate = Date(2024, 1, 1)
+rss_pubdate = Date(2025, 1, 1)
 
 tags = ["teaching"]
 +++
@@ -24,28 +24,25 @@ The 600 level of this course will also incorporate a for-credit final project as
 
 ||||||
 |--:|:--|---|--:|:--|
-| Fall  |  2024   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
-| Location    | CS 142 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
+| Fall  |  2025   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Instructor**| Prof. Stefan Krastanov|
+| Location    | LGRC A104A |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [skrastanov@umass.edu](mailto:skrastanov@umass.edu)|
 | Days        | MonWed |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | LGRC A211F |
-| Time        | 12:20-13:35 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Luc	Barrett |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [labarrett@umass.edu](mailto:labarrett@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see piazza |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Zhiheng	Wang |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [zhihengwang@umass.edu](mailto:zhihengwang@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see piazza |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**UCA**        | Benjamin	Kuchma |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [bkuchma@umass.edu](mailto:bkuchma@umass.edu) |
-|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see piazza |
+| Time        | 14:20-15:45 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Prof.&nbsp;Office&nbsp;Hours: before&nbsp;lectures&nbsp;and&nbsp;on&nbsp;demand |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Evan Ciccarelli |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [eciccarelli@umass.edu](mailto:eciccarelli@umass.edu) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see canvas |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**TA**        | Mohammad Mobayenjarihani |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | [mobayen@cs.umass.edu](mailto:mobayen@cs.umass.edu) |
+|             |     |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          | Office Hours: see canvas |
 
 @@
 @@
 
 Website at [lab.krastanov.org/grad-qis](https://lab.krastanov.org/grad-qis/).
 
-Previous versions of the class: [2023](https://lab.krastanov.org/grad-qis-2023-H2/).
+Previous versions of the class: [2023](https://lab.krastanov.org/grad-qis-2023-H2/), [2024](https://lab.krastanov.org/grad-qis-2024-H2/)
 
-Online course management through [Canvas](https://umamherst.instructure.com/courses/23137).
+Online course management through [Canvas](https://umamherst.instructure.com/courses/33015).
 
 ## Prerequisites
 
@@ -97,7 +94,7 @@ The Nielsen and Chuang textbook has a lot of exercises that you should be workin
 
 #### Exams:
 
-- Midterm, take home exam, 7am-11:59pm, Tuesday October 15
+- Midterm, take home exam, 7am-11:59pm, Tuesday October TBD
 - Final, in-person written exam, date TBD
 
 Take home exams are completely open book and open internet, but no communication with other sentient beings is permitted (e.g., yes to using search engines, no to asking new questions on forums, no to working with classmates).
@@ -114,21 +111,21 @@ Collaboration is encouraged for the homeworks (and should be disclosed), but the
 
 |Week|Content|
 |---|---|
-|Sep 2 | 1 lecture on Wed |
-|Sep 9| 2 lectures |
-|Sep 16| 2 lectures |
-|Sep 23| 2 lectures |
-|Sep 30| 2 lectures |
-|Oct 7 | 2 lectures |
-|Oct 14| 2 lectures (Tue on Mon schedule)|
-|Oct 21| 2 lectures |
-|Oct 28| 2 lectures |
-|Nov 4 | 2 lectures |
-|Nov 11| 1 lecture on Wed (Mon is holiday) |
-|Nov 18| 2 lectures |
-|Nov 25| 1 lecture on Mon (Thangksgiving break)|
-|Dec 2 | 2 lectures |
-|Dec 9 | 1 lecture on Mon |
+|Sep 1 | 1 lecture on Wed |
+|Sep 8| 2 lectures |
+|Sep 15| 2 lectures |
+|Sep 22| 2 lectures |
+|Sep 29| 2 lectures |
+|Oct 6 | 2 lectures |
+|Oct 13| 1 lecture on Wed|
+|Oct 20| 2 lectures |
+|Oct 27| 2 lectures |
+|Nov 3 | 2 lectures |
+|Nov 10| 2 lectures |
+|Nov 17| 2 lectures |
+|Nov 24| 1 lecture on Mon (Thangksgiving break)|
+|Dec 1 | 2 lectures |
+|Dec 8 | 1 lecture on Mon |
 
 ## Topics not covered
 
@@ -151,6 +148,8 @@ These are important topics we will not have the time to cover, but you might wan
 - 30% midterms (letter graded)
 - 30% final (letter graded)
 
+For students running a class project the weight is 20% on the project and 0.8 downscaling of the 3 components in the bullet points above.
+
 Homework late return policy: each day the homework is late, the grade for that particular homework is lowered by a factor of 0.7, compounding. 
 
 Your worst homework grade is not counted (i.e., you do not need to ask for extensions -- you get one freebie that you can decide to use when you wish and nothing more).
@@ -172,14 +171,36 @@ However **you have to disclose** that you used such a tool. In particular, if yo
 
 **You are not permitted to copy the work of another sentient being for any exam or homework.**
 
+## Comparing to past years and addressing student feedback
+
+Workload ratings from students in 2023:
+
+![Workload ratings from students](/grad-qis-2023-student-rating.png)
+![Workload ratings from students](/grad-qis-2024-student-rating.png)
+
+Final grade distribution in 2023 and 2024:
+
+![Final grade distribution](/grad-qis-2023-final-grades.png)
+![Final grade distribution](/grad-qis-2024-final-grades.png)
+
+Here are a couple of recurring comments from the student feedback pages that are worth addressing:
+
+- The class is in the format of a whiteboard lecture. There are almost never any slides. It is the students's responsibility to take notes.
+- The vast majority of the students in the class do not have background in quantum mechanics and there will not be any quantum science prerequisites for this class. Students with background in quantum mechanics rarely do better than other students, given the very different CS-focused approach this class takes.
+- The class has fairly equal weight on algorithms and on error-correction, two very different topics. One is about using a quantum computer for something valuable, the other one is about overcoming the challenges that make creating a quantum computer difficult.
+- Homework solutions are not given, but discussing homework problems is encouraged during the QnA parts of the lectures and during office hours.
+- The midterm is take-home while the final is the only timed in-person exam. It is the students's responsibility to ensure they can solve problems within reasonable time frames.
+
 ## Academic Honesty Statement
 
-Copying of written homeworks, or exams or "teamwork" on an assignment (unless teaming is explicitly part of that assignment) is not permitted. You can talk to other students about the assignments, and ask/answer questions - it is great to learn from each other - but the work you hand in must be your own. A student found copying the work of others will receive a grade of F for the course. If you are having trouble with an assignment or if you are having trouble meeting a deadline, see the instructor or the TA; we will bend over backwards to help you but we will not tolerate cheating. Please read the [UMass Academic Code of Conduct Policy](https://www.umass.edu/dean_students/codeofconduct).
+Copying of written homeworks, or exams or "teamwork" on an assignment (unless teaming is explicitly part of that assignment) is not permitted. You can talk to other students about the assignments, and ask/answer questions - it is great to learn from each other - but the work you hand in must be your own. A student found copying the work of others will receive a grade of F for the course. If you are having trouble with an assignment or if you are having trouble meeting a deadline, see the instructor or the TA; we will bend over backwards to help you but we will not tolerate cheating. Please read the [UMass Academic Code of Conduct Policy](https://www.umass.edu/studentsuccess/academic-integrity).
 
 ## Accommodation Statement
 
 The University of Massachusetts Amherst is committed to providing an equal educational opportunity for all students.  If you have a documented physical, psychological, or learning disability on file with Disability Services (DS), you may be eligible for reasonable academic accommodations to help you succeed in this course.  If you have a documented disability that requires an accommodation, please notify me within the first two weeks of the semester so that we may make appropriate arrangements.  For further information, please visit [Disability Services](https://www.umass.edu/disability/).
 
 ## Title IX Statement
+
+You can always approach me, the instructor, for help. Below is some more formal language on rules and resources.
 
 In accordance with Title IX of the Education Amendments of 1972 that prohibits gender-based discrimination in educational settings that receive federal funds, the University of Massachusetts Amherst is committed to providing a safe learning environment for all students, free from all forms of discrimination, including sexual assault, sexual harassment, domestic violence, dating violence, stalking, and retaliation. This includes interactions in person or online through digital platforms and social media. Title IX also protects against discrimination on the basis of pregnancy, childbirth, false pregnancy, miscarriage, abortion, or related conditions, including recovery. There are resources here on campus to support you. A summary of the available Title IX resources (confidential and non-confidential) can be found at [www.umass.edu/titleix/resources](https://www.umass.edu/titleix/resources). You do not need to make a formal report to access them. If you need immediate support, you are not alone. Free and confidential support is available 24 hours a day / 7 days a week / 365 days a year at the SASA Hotline 413-545-0800.  
