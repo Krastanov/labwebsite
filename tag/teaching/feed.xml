@@ -23,12 +23,12 @@
 
 <item>
   <title>
-    <![CDATA[  Graduate Seminar on Quantum Error Correcting Codes and Fault Tolerant Computation  ]]>
+    <![CDATA[  Graduate Quantum Information Science  ]]>
   </title>
-  <link> https://lab.krastanov.org/grad-faulttolerance/index.html </link>
-  <guid> https://lab.krastanov.org/grad-faulttolerance/index.html </guid>
+  <link> https://lab.krastanov.org/grad-qis/index.html </link>
+  <guid> https://lab.krastanov.org/grad-qis/index.html </guid>
   <description>
-    <![CDATA[  Overview Class on the development of Quantum Error Correction and Fault Tolerance.  ]]>
+    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
   </description>  
     
   <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>  
@@ -42,15 +42,15 @@
 
 <item>
   <title>
-    <![CDATA[  Graduate Quantum Information Science  ]]>
+    <![CDATA[  Graduate Seminar on Quantum Error Correcting Codes and Fault Tolerant Computation  ]]>
   </title>
-  <link> https://lab.krastanov.org/grad-qis/index.html </link>
-  <guid> https://lab.krastanov.org/grad-qis/index.html </guid>
+  <link> https://lab.krastanov.org/grad-faulttolerance/index.html </link>
+  <guid> https://lab.krastanov.org/grad-faulttolerance/index.html </guid>
   <description>
-    <![CDATA[  Overview Class on the Fundamentals of Quantum Information Science from Fundamentals to Practical Engineering  ]]>
+    <![CDATA[  Overview Class on the development of Quantum Error Correction and Fault Tolerance.  ]]>
   </description>  
     
-  <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
