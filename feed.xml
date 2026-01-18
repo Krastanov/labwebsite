@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Graduate Seminar on the Intersection of Quantum Information Science and Artificial Intelligence  ]]>
+  </title>
+  <link> https://lab.krastanov.org/grad-quantumai/index.html </link>
+  <guid> https://lab.krastanov.org/grad-quantumai/index.html </guid>
+  <description>
+    <![CDATA[  Seminar-style class on Quantum and AI where we go through recent works on the topic.  ]]>
+  </description>  
+    
+  <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Stefan Krastanov</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Graduate Quantum Information Science  ]]>
   </title>
   <link> https://lab.krastanov.org/grad-qis/index.html </link>
