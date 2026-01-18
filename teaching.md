@@ -26,6 +26,16 @@ This class will introduce the notion of quantum probability amplitudes, i.e., th
 
 See more at the [undergrad class page](/undergrad-qis/) and the [grad class page](/grad-qis/).
 
+# COMPSCI 692QA: Quantum and AI
+
+A graduate seminar.
+
+The intersection of quantum information science and machine learning has evolved from a field of heuristic exploration into a rigorous discipline of mathematical foundations. This seminar explores the fundamental limits of information processing where the statistical principles of learning theory meet the computational capabilities of quantum mechanics. As we transition from classical to quantum-enhanced sensing and computation, the traditional frameworks of PAC (Probably Approximately Correct) learnability and VC dimension are being redefined to account for uniquely quantum phenomena such as state collapse, non-cloning, and entanglement.
+
+The revolutionary applications of AI&ML to Physics, Chemistry, Pharma, and Material Science are the tangible outcomes of such work. Moreover, AI&ML and inching closer and closer to solving problems we thought only quantum computers can solve efficiently -- if such a breaktrough is achieved it will be paradigm shattering in both CS Theory and in many engineering and life-science disciplines.
+
+See more at [class page](https://lab.krastanov.org/grad-quantumai/).
+
 ## COMPSCI 6xxx: Fault Tolerant Quantum Computing
 
 A graduate seminar.
