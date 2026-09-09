@@ -16,6 +16,8 @@ If you are uncertain about your own skills, consider looking up the resources we
 
 We are also involved with the Google (and Julia) Summer of Code programs (on [Clifford circuit simulation](https://julialang.org/jsoc/gsoc/quantumclifford/) and [Quantum Optics](https://julialang.org/jsoc/gsoc/quantumoptics/)) and we run a number of [open-source bounty programs](https://github.com/QuantumSavory/.github/blob/main/BUG_BOUNTIES.md). Such projects can also be done as independent studies or as paid student jobs, depending on your interest and context. One of the goals of such projects is to introduce more folks to the open-source community, so do not hesitate to reach out if you are a novice.
 
+New contributors participating in the bounty program must not use LLMs or coding agents to generate code. They may use these tools to analyze existing code and to review code they have written themselves. They must attend [office hours](https://quantumsavory.org/community/office-hours/) to discuss their pull request.
+
 If you are interested in any of these projects, contact Prof. Krastanov at [skrastanov@umass.edu](skrastanov@umass.edu).
 
 You can also see a list of [past projects](/pastindependentstudy).
