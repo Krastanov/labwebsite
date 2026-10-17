@@ -16,6 +16,15 @@
   website: <a href="https://scholar.google.com/citations?user=V52MmUkAAAAJ&hl=en&oi=ao">Google Scholar</a>
   history:
     - PhD, Computer Science <a href="https://www.unipi.it/en/">University of Pisa</a>
+- name: José Antonio Rodrigues Romero
+  photo: Romero1.jpg
+  info: Postdoctoral Researcher
+  time: started December 2025
+  email: jrodriguesro@umass.edu
+  website: <a href="https://orcid.org/0000-0002-5663-1085">ORCID</a>
+  history:
+    - PhD, Physics, <a href="https://www.uibk.ac.at/de/ionen-angewandte-physik">University of Innsbruck</a>
+    - MSc, Physics Engineering, <a href="https://www.df.fct.unl.pt/en">NOVA University of Lisbon</a>
 - name: Anthony Micciche
   photo: Anthony1.jpg
   info: Computer Science PhD Student 
@@ -57,6 +66,14 @@
   time: started August 2025
   email: fmian@umass.edu
   website: <a href="https://scholar.google.com/citations?user=xdGGmiUAAAAJ&hl=en">Google Scholar</a>
+- name: Diba Imran (دیبا عمران)
+  photo: Diba1.jpg
+  info: Computer Science PhD Student
+  time: started September 2026
+  email: dibaimran@umass.edu
+  website: <a href="https://www.linkedin.com/in/diba-imran">LinkedIn</a>
+  history:
+    - Bachelor of Arts, Computer Science and Mathematics, <a href="https://www.bard.edu/">Bard College</a>
 
 # past members
 - name: Guus Avis
